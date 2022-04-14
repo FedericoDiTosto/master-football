@@ -32,16 +32,16 @@ input:focus {
     display: none;
 }
 
-.selectPlayer {
+.boxPlayer {
     height: 50px;
     background-color: rgb(255, 255, 255);
 }
 
-.selectPlayer:hover {
+.boxPlayer:hover {
     background-color: rgb(219, 219, 219);
 }
 
-.selectPlayer p {
+.boxPlayer p {
     width: 100%;
     display: flex;
     align-items: center;

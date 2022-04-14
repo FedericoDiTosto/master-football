@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "../styles/SearchBar.css"
 
-function SearchBar({players}) {
+function SearchBar({players, setSelectedPlayer}) {
   const [filteredPlayer, setfilteredPlayer] = useState([]);
   const [playerEntered, setplayerEntered] = useState("");
 
@@ -19,6 +19,12 @@ function SearchBar({players}) {
     }
   };
 
+ function submiitSelected(value) {
+    setfilteredPlayer([]);
+    setplayerEntered("");
+    setSelectedPlayer(value)
+  } 
+
   return (
     <div className="search">
       <div className="searchInputs">
@@ -32,7 +38,7 @@ function SearchBar({players}) {
         <div className="dataResult">
           {filteredPlayer.slice(0, 10).map((value, key) => {
             return (
-              <div className="selectPlayer" >
+              <div className="boxPlayer" onClick={() => {setSelectedPlayer(value); setfilteredPlayer([]); setplayerEntered("");}}>
                 <p>{value.name}</p>
               </div>
             );
