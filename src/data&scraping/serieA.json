@@ -1,0 +1,4202 @@
+[
+    {
+        "name": "Tammy Abraham",
+        "team": "AS Roma",
+        "birth": "02/10/1997",
+        "pos": "FW"
+    },
+    {
+        "name": "Salim Abubakar",
+        "team": "Sassuolo Calcio",
+        "birth": "01/01/2003",
+        "pos": "MF"
+    },
+    {
+        "name": "Francesco Acerbi",
+        "team": "Lazio Roma",
+        "birth": "10/02/1988",
+        "pos": "DF"
+    },
+    {
+        "name": "Marius Adamonis",
+        "team": "Lazio Roma",
+        "birth": "13/05/1997",
+        "pos": "GK"
+    },
+    {
+        "name": "Enzo Adeagbo",
+        "team": "Lazio Roma",
+        "birth": "11/01/2002",
+        "pos": "DF"
+    },
+    {
+        "name": "Michel Aebischer",
+        "team": "Bologna FC",
+        "birth": "06/01/1997",
+        "pos": "MF"
+    },
+    {
+        "name": "Felix Afena-Gyan",
+        "team": "AS Roma",
+        "birth": "19/01/2003",
+        "pos": "FW"
+    },
+    {
+        "name": "Vittorio Agostinelli",
+        "team": "ACF Fiorentina",
+        "birth": "21/02/2002",
+        "pos": "MF"
+    },
+    {
+        "name": "Kevin Agudelo",
+        "team": "Spezia Calcio",
+        "birth": "14/11/1998",
+        "pos": "DF"
+    },
+    {
+        "name": "Ola Aina",
+        "team": "Torino FC",
+        "birth": "08/10/1996",
+        "pos": "DF"
+    },
+    {
+        "name": "Marley Ak\u00e9",
+        "team": "Juventus",
+        "birth": "05/01/2001",
+        "pos": "FW"
+    },
+    {
+        "name": "Lado Akhalaia",
+        "team": "Torino FC",
+        "birth": "01/07/2002",
+        "pos": "FW"
+    },
+    {
+        "name": "Jean-Daniel Akpa-Akpro",
+        "team": "Lazio Roma",
+        "birth": "11/10/1992",
+        "pos": "MF"
+    },
+    {
+        "name": " Alex Sandro",
+        "team": "Juventus",
+        "birth": "26/01/1991",
+        "pos": "DF"
+    },
+    {
+        "name": "Giorgio Altare",
+        "team": "Cagliari Calcio",
+        "birth": "09/08/1998",
+        "pos": "DF"
+    },
+    {
+        "name": "Giuseppe Ambrosino",
+        "team": "SSC Napoli",
+        "birth": "10/09/2003",
+        "pos": "FW"
+    },
+    {
+        "name": "Wisdom Amey",
+        "team": "Bologna FC",
+        "birth": "11/08/2005",
+        "pos": "DF"
+    },
+    {
+        "name": "Kelvin Amian",
+        "team": "Spezia Calcio",
+        "birth": "08/02/1998",
+        "pos": "DF"
+    },
+    {
+        "name": "Nadiem Amiri",
+        "team": "Genoa CFC",
+        "birth": "27/10/1996",
+        "pos": "MF"
+    },
+    {
+        "name": "Ethan Ampadu",
+        "team": "Venezia FC",
+        "birth": "14/09/2000",
+        "pos": "DF"
+    },
+    {
+        "name": "Sofyan Amrabat",
+        "team": "ACF Fiorentina",
+        "birth": "21/08/1996",
+        "pos": "MF"
+    },
+    {
+        "name": "Samuele Angori",
+        "team": "Torino FC",
+        "birth": "07/10/2003",
+        "pos": "DF"
+    },
+    {
+        "name": "Frank Anguissa",
+        "team": "SSC Napoli",
+        "birth": "16/11/1995",
+        "pos": "MF"
+    },
+    {
+        "name": "Ebenezer Annan",
+        "team": "Bologna FC",
+        "birth": "21/08/2002",
+        "pos": "DF"
+    },
+    {
+        "name": "Cristian Ansaldi",
+        "team": "Torino FC",
+        "birth": "20/09/1986",
+        "pos": "DF"
+    },
+    {
+        "name": "Janis Antiste",
+        "team": "Spezia Calcio",
+        "birth": "18/08/2002",
+        "pos": "FW"
+    },
+    {
+        "name": "Luigi Aquino",
+        "team": "Sampdoria",
+        "birth": "01/02/2002",
+        "pos": "DF"
+    },
+    {
+        "name": "Mattia Aramu",
+        "team": "Venezia FC",
+        "birth": "14/05/1995",
+        "pos": "MF"
+    },
+    {
+        "name": "Simone Aresti",
+        "team": "Cagliari Calcio",
+        "birth": "15/03/1986",
+        "pos": "GK"
+    },
+    {
+        "name": "Marko Arnautovi\u0107",
+        "team": "Bologna FC",
+        "birth": "19/04/1989",
+        "pos": "FW"
+    },
+    {
+        "name": "Tolgay Arslan",
+        "team": "Udinese Calcio",
+        "birth": "16/08/1990",
+        "pos": "MF"
+    },
+    {
+        "name": " Arthur",
+        "team": "Juventus",
+        "birth": "12/08/1996",
+        "pos": "MF"
+    },
+    {
+        "name": " Arthur Cabral",
+        "team": "ACF Fiorentina",
+        "birth": "25/04/1998",
+        "pos": "FW"
+    },
+    {
+        "name": "Kristoffer Askildsen",
+        "team": "Sampdoria",
+        "birth": "09/01/2001",
+        "pos": "MF"
+    },
+    {
+        "name": "Kristjan Asllani",
+        "team": "Empoli FC",
+        "birth": "09/03/2002",
+        "pos": "MF"
+    },
+    {
+        "name": "Christian Aucelli",
+        "team": "Sassuolo Calcio",
+        "birth": "14/06/2002",
+        "pos": "MF"
+    },
+    {
+        "name": "Emil Audero",
+        "team": "Sampdoria",
+        "birth": "18/01/1997",
+        "pos": "GK"
+    },
+    {
+        "name": "Tommaso Augello",
+        "team": "Sampdoria",
+        "birth": "30/08/1994",
+        "pos": "DF"
+    },
+    {
+        "name": "Kaan Ayhan",
+        "team": "Sassuolo Calcio",
+        "birth": "10/11/1994",
+        "pos": "DF"
+    },
+    {
+        "name": "Milan Badelj",
+        "team": "Genoa CFC",
+        "birth": "25/02/1989",
+        "pos": "MF"
+    },
+    {
+        "name": "Nicola Bagnolini",
+        "team": "Bologna FC",
+        "birth": "14/03/2004",
+        "pos": "GK"
+    },
+    {
+        "name": "Issa Bah",
+        "team": "Venezia FC",
+        "birth": "05/07/2002",
+        "pos": "FW"
+    },
+    {
+        "name": "Nedim Bajrami",
+        "team": "Empoli FC",
+        "birth": "28/02/1999",
+        "pos": "MF"
+    },
+    {
+        "name": "Tiemou\u00e9 Bakayoko",
+        "team": "AC Milan",
+        "birth": "17/08/1994",
+        "pos": "MF"
+    },
+    {
+        "name": "Tommaso Baldanzi",
+        "team": "Empoli FC",
+        "birth": "23/03/2003",
+        "pos": "MF"
+    },
+    {
+        "name": "Keita Bald\u00e9",
+        "team": "Cagliari Calcio",
+        "birth": "08/03/1995",
+        "pos": "FW"
+    },
+    {
+        "name": "Marco Ballarini",
+        "team": "Udinese Calcio",
+        "birth": "28/03/2001",
+        "pos": "DF"
+    },
+    {
+        "name": "Fod\u00e9 Ballo-Tour\u00e9",
+        "team": "AC Milan",
+        "birth": "03/01/1997",
+        "pos": "DF"
+    },
+    {
+        "name": "Filippo Bandinelli",
+        "team": "Empoli FC",
+        "birth": "29/03/1995",
+        "pos": "MF"
+    },
+    {
+        "name": "Mattia Bani",
+        "team": "Genoa CFC",
+        "birth": "10/12/1993",
+        "pos": "DF"
+    },
+    {
+        "name": "Anton\u00edn Bar\u00e1k",
+        "team": "Hellas Verona",
+        "birth": "03/12/1994",
+        "pos": "MF"
+    },
+    {
+        "name": "Benedetto Barba",
+        "team": "SSC Napoli",
+        "birth": "27/01/2003",
+        "pos": "DF"
+    },
+    {
+        "name": "Francesco Bardi",
+        "team": "Bologna FC",
+        "birth": "18/01/1992",
+        "pos": "GK"
+    },
+    {
+        "name": "Nicol\u00f2 Barella",
+        "team": "Inter",
+        "birth": "07/02/1997",
+        "pos": "MF"
+    },
+    {
+        "name": "Musa Barrow",
+        "team": "Bologna FC",
+        "birth": "14/11/1998",
+        "pos": "FW"
+    },
+    {
+        "name": "Daniele Baselli",
+        "team": "Cagliari Calcio",
+        "birth": "12/03/1992",
+        "pos": "MF"
+    },
+    {
+        "name": "Toma Ba\u0161i\u0107",
+        "team": "Lazio Roma",
+        "birth": "25/11/1996",
+        "pos": "MF"
+    },
+    {
+        "name": "Alessandro Bastoni",
+        "team": "Inter",
+        "birth": "13/04/1999",
+        "pos": "DF"
+    },
+    {
+        "name": "Simone Bastoni",
+        "team": "Spezia Calcio",
+        "birth": "05/11/1996",
+        "pos": "DF"
+    },
+    {
+        "name": "Vid Belec",
+        "team": "US Salernitana 1919",
+        "birth": "06/06/1990",
+        "pos": "GK"
+    },
+    {
+        "name": "Raoul Bellanova",
+        "team": "Cagliari Calcio",
+        "birth": "17/05/2000",
+        "pos": "DF"
+    },
+    {
+        "name": "Andrea Belotti",
+        "team": "Torino FC",
+        "birth": "20/12/1993",
+        "pos": "FW"
+    },
+    {
+        "name": "Marco Benassi",
+        "team": "Empoli FC",
+        "birth": "08/09/1994",
+        "pos": "MF"
+    },
+    {
+        "name": "Filip Benkovi\u0107",
+        "team": "Udinese Calcio",
+        "birth": "13/07/1997",
+        "pos": "DF"
+    },
+    {
+        "name": "Isma\u00ebl Bennacer",
+        "team": "AC Milan",
+        "birth": "01/12/1997",
+        "pos": "MF"
+    },
+    {
+        "name": "Alessandro Berardi",
+        "team": "Hellas Verona",
+        "birth": "16/01/1991",
+        "pos": "GK"
+    },
+    {
+        "name": "Domenico Berardi",
+        "team": "Sassuolo Calcio",
+        "birth": "01/08/1994",
+        "pos": "FW"
+    },
+    {
+        "name": "Bartosz Bereszy\u0144ski",
+        "team": "Sampdoria",
+        "birth": "12/07/1992",
+        "pos": "DF"
+    },
+    {
+        "name": "Etrit Berisha",
+        "team": "Torino FC",
+        "birth": "10/03/1989",
+        "pos": "GK"
+    },
+    {
+        "name": "Federico Bernardeschi",
+        "team": "Juventus",
+        "birth": "16/02/1994",
+        "pos": "FW"
+    },
+    {
+        "name": "Marco Bertini",
+        "team": "Lazio Roma",
+        "birth": "07/08/2002",
+        "pos": "MF"
+    },
+    {
+        "name": "Tommaso Bertini",
+        "team": "Atalanta",
+        "birth": "13/01/2004",
+        "pos": "GK"
+    },
+    {
+        "name": "Nicol\u00f3 Bertola",
+        "team": "Spezia Calcio",
+        "birth": "23/03/2003",
+        "pos": "DF"
+    },
+    {
+        "name": " Beto",
+        "team": "Udinese Calcio",
+        "birth": "31/01/1998",
+        "pos": "FW"
+    },
+    {
+        "name": "Valerio Biagini",
+        "team": "Empoli FC",
+        "birth": "20/10/2003",
+        "pos": "GK"
+    },
+    {
+        "name": "Alessandro Bianco",
+        "team": "ACF Fiorentina",
+        "birth": "01/10/2002",
+        "pos": "MF"
+    },
+    {
+        "name": "Luis Binks",
+        "team": "Bologna FC",
+        "birth": "02/09/2001",
+        "pos": "DF"
+    },
+    {
+        "name": "Cristiano Biraghi",
+        "team": "ACF Fiorentina",
+        "birth": "01/09/1992",
+        "pos": "DF"
+    },
+    {
+        "name": "Pietro Boer",
+        "team": "AS Roma",
+        "birth": "12/05/2002",
+        "pos": "GK"
+    },
+    {
+        "name": "Valerio Boffeli",
+        "team": "SSC Napoli",
+        "birth": "04/09/2004",
+        "pos": "GK"
+    },
+    {
+        "name": "J\u00e9r\u00e9mie Boga",
+        "team": "Atalanta",
+        "birth": "03/01/1997",
+        "pos": "FW"
+    },
+    {
+        "name": "Emil Bohinen",
+        "team": "US Salernitana 1919",
+        "birth": "12/03/1999",
+        "pos": "MF"
+    },
+    {
+        "name": "Giacomo Bonaventura",
+        "team": "ACF Fiorentina",
+        "birth": "22/08/1989",
+        "pos": "MF"
+    },
+    {
+        "name": "Federico Bonazzoli",
+        "team": "US Salernitana 1919",
+        "birth": "21/05/1997",
+        "pos": "FW"
+    },
+    {
+        "name": "Giovanni Bonfanti",
+        "team": "Sampdoria",
+        "birth": "17/01/2003",
+        "pos": "DF"
+    },
+    {
+        "name": "Kevin Bonifazi",
+        "team": "Bologna FC",
+        "birth": "19/05/1996",
+        "pos": "DF"
+    },
+    {
+        "name": "Leonardo Bonucci",
+        "team": "Juventus",
+        "birth": "01/05/1987",
+        "pos": "DF"
+    },
+    {
+        "name": "Elia Boseggia",
+        "team": "Hellas Verona",
+        "birth": "06/02/2004",
+        "pos": "GK"
+    },
+    {
+        "name": "David Bosilj",
+        "team": "Hellas Verona",
+        "birth": "01/02/2002",
+        "pos": "FW"
+    },
+    {
+        "name": "Mehdi Bourabia",
+        "team": "Spezia Calcio",
+        "birth": "07/08/1991",
+        "pos": "MF"
+    },
+    {
+        "name": "Edoardo Bove",
+        "team": "AS Roma",
+        "birth": "16/05/2002",
+        "pos": "MF"
+    },
+    {
+        "name": " Brahim D\u00edaz",
+        "team": "AC Milan",
+        "birth": "03/08/1999",
+        "pos": "MF"
+    },
+    {
+        "name": "Federico Brancolini",
+        "team": "ACF Fiorentina",
+        "birth": "14/07/2001",
+        "pos": "GK"
+    },
+    {
+        "name": "Josip Brekalo",
+        "team": "Torino FC",
+        "birth": "23/06/1998",
+        "pos": "FW"
+    },
+    {
+        "name": " Bremer",
+        "team": "Torino FC",
+        "birth": "18/03/1997",
+        "pos": "DF"
+    },
+    {
+        "name": "Marcelo Brozovi\u0107",
+        "team": "Inter",
+        "birth": "16/11/1992",
+        "pos": "MF"
+    },
+    {
+        "name": " Bruno Bertinato",
+        "team": "Venezia FC",
+        "birth": "31/05/1998",
+        "pos": "GK"
+    },
+    {
+        "name": "Aleksander Buksa",
+        "team": "Genoa CFC",
+        "birth": "15/01/2003",
+        "pos": "FW"
+    },
+    {
+        "name": "Alessandro Buongiorno",
+        "team": "Torino FC",
+        "birth": "06/06/1999",
+        "pos": "DF"
+    },
+    {
+        "name": "Gianluca Busio",
+        "team": "Venezia FC",
+        "birth": "28/05/2002",
+        "pos": "MF"
+    },
+    {
+        "name": "Bryan Cabezas",
+        "team": "Atalanta",
+        "birth": "20/03/1997",
+        "pos": "FW"
+    },
+    {
+        "name": "Liberato Cacace",
+        "team": "Empoli FC",
+        "birth": "27/09/2000",
+        "pos": "DF"
+    },
+    {
+        "name": "Felipe Caicedo",
+        "team": "Inter",
+        "birth": "05/09/1988",
+        "pos": "FW"
+    },
+    {
+        "name": "Davide Calabria",
+        "team": "AC Milan",
+        "birth": "06/12/1996",
+        "pos": "DF"
+    },
+    {
+        "name": "Riccardo Calafiori",
+        "team": "Genoa CFC",
+        "birth": "19/05/2002",
+        "pos": "DF"
+    },
+    {
+        "name": "Mattia Caldara",
+        "team": "Venezia FC",
+        "birth": "05/05/1994",
+        "pos": "DF"
+    },
+    {
+        "name": "Hakan \u00c7alhano\u011flu",
+        "team": "Inter",
+        "birth": "08/02/1994",
+        "pos": "MF"
+    },
+    {
+        "name": "Andrea Cambiaso",
+        "team": "Genoa CFC",
+        "birth": "20/02/2000",
+        "pos": "DF"
+    },
+    {
+        "name": "Matteo Cancellieri",
+        "team": "Hellas Verona",
+        "birth": "12/02/2002",
+        "pos": "FW"
+    },
+    {
+        "name": "Antonio Candreva",
+        "team": "Sampdoria",
+        "birth": "28/02/1987",
+        "pos": "MF"
+    },
+    {
+        "name": "Lorenzo Cannavale",
+        "team": "US Salernitana 1919",
+        "birth": "29/01/2002",
+        "pos": "FW"
+    },
+    {
+        "name": "Leonardo Capezzi",
+        "team": "US Salernitana 1919",
+        "birth": "28/03/1995",
+        "pos": "MF"
+    },
+    {
+        "name": "Gianluca Caprari",
+        "team": "Hellas Verona",
+        "birth": "30/07/1993",
+        "pos": "FW"
+    },
+    {
+        "name": "Francesco Caputo",
+        "team": "Sampdoria",
+        "birth": "06/08/1987",
+        "pos": "FW"
+    },
+    {
+        "name": "Andrea Carboni",
+        "team": "Cagliari Calcio",
+        "birth": "04/02/2001",
+        "pos": "DF"
+    },
+    {
+        "name": "Franco Carboni",
+        "team": "Inter",
+        "birth": "04/04/2003",
+        "pos": "MF"
+    },
+    {
+        "name": " Carles P\u00e9rez",
+        "team": "AS Roma",
+        "birth": "16/02/1998",
+        "pos": "FW"
+    },
+    {
+        "name": "Matteo Carnelos",
+        "team": "Udinese Calcio",
+        "birth": "22/02/2003",
+        "pos": "GK"
+    },
+    {
+        "name": "Cesare Casadei",
+        "team": "Inter",
+        "birth": "10/01/2003",
+        "pos": "MF"
+    },
+    {
+        "name": "Nicol\u00f2 Casale",
+        "team": "Hellas Verona",
+        "birth": "14/02/1998",
+        "pos": "DF"
+    },
+    {
+        "name": "Riccardo Castagnaviz",
+        "team": "Udinese Calcio",
+        "birth": "29/01/2003",
+        "pos": "MF"
+    },
+    {
+        "name": "Gaetano Castrovilli",
+        "team": "ACF Fiorentina",
+        "birth": "17/02/1997",
+        "pos": "MF"
+    },
+    {
+        "name": "Danilo Cataldi",
+        "team": "Lazio Roma",
+        "birth": "06/08/1994",
+        "pos": "MF"
+    },
+    {
+        "name": "Nicol\u00f2 Cavuoti",
+        "team": "Cagliari Calcio",
+        "birth": "04/04/2003",
+        "pos": "MF"
+    },
+    {
+        "name": "Pietro Ceccaroni",
+        "team": "Venezia FC",
+        "birth": "21/12/1995",
+        "pos": "DF"
+    },
+    {
+        "name": "Federico Ceccherini",
+        "team": "Hellas Verona",
+        "birth": "11/05/1992",
+        "pos": "DF"
+    },
+    {
+        "name": "Emil Ceide",
+        "team": "Sassuolo Calcio",
+        "birth": "03/09/2001",
+        "pos": "FW"
+    },
+    {
+        "name": "Luca Ceppitelli",
+        "team": "Cagliari Calcio",
+        "birth": "11/08/1989",
+        "pos": "DF"
+    },
+    {
+        "name": "Damir Ceter",
+        "team": "Cagliari Calcio",
+        "birth": "02/11/1997",
+        "pos": "FW"
+    },
+    {
+        "name": "Giorgio Chiellini",
+        "team": "Juventus",
+        "birth": "14/08/1984",
+        "pos": "DF"
+    },
+    {
+        "name": "Federico Chiesa",
+        "team": "Juventus",
+        "birth": "25/10/1997",
+        "pos": "FW"
+    },
+    {
+        "name": "Mattia Chiesa",
+        "team": "Hellas Verona",
+        "birth": "16/07/2000",
+        "pos": "GK"
+    },
+    {
+        "name": "Vlad Chiriche\u015f",
+        "team": "Sassuolo Calcio",
+        "birth": "14/11/1989",
+        "pos": "DF"
+    },
+    {
+        "name": "Riccardo Ciervo",
+        "team": "Sassuolo Calcio",
+        "birth": "01/04/2002",
+        "pos": "FW"
+    },
+    {
+        "name": "Antonio Cioffi",
+        "team": "SSC Napoli",
+        "birth": "19/12/2002",
+        "pos": "FW"
+    },
+    {
+        "name": "Moustapha Ciss\u00e9",
+        "team": "Atalanta",
+        "birth": "14/09/2003",
+        "pos": "FW"
+    },
+    {
+        "name": "Giorgio Cittadini",
+        "team": "Atalanta",
+        "birth": "18/04/2002",
+        "pos": "DF"
+    },
+    {
+        "name": "Nicol\u00f2 Cocetta",
+        "team": "Udinese Calcio",
+        "birth": "19/12/2003",
+        "pos": "DF"
+    },
+    {
+        "name": "Lorenzo Codutti",
+        "team": "Udinese Calcio",
+        "birth": "27/06/2003",
+        "pos": "DF"
+    },
+    {
+        "name": "Ebrima Colley",
+        "team": "Spezia Calcio",
+        "birth": "01/02/2000",
+        "pos": "FW"
+    },
+    {
+        "name": "Omar Colley",
+        "team": "Sampdoria",
+        "birth": "24/10/1992",
+        "pos": "DF"
+    },
+    {
+        "name": "Andrea Consigli",
+        "team": "Sassuolo Calcio",
+        "birth": "27/01/1987",
+        "pos": "GK"
+    },
+    {
+        "name": "Andrea Conti",
+        "team": "Sampdoria",
+        "birth": "02/03/1994",
+        "pos": "DF"
+    },
+    {
+        "name": "Diego Coppola",
+        "team": "Hellas Verona",
+        "birth": "28/12/2003",
+        "pos": "DF"
+    },
+    {
+        "name": "Alex Cordaz",
+        "team": "Inter",
+        "birth": "01/01/1983",
+        "pos": "GK"
+    },
+    {
+        "name": "Joaqu\u00edn Correa",
+        "team": "Inter",
+        "birth": "13/08/1994",
+        "pos": "FW"
+    },
+    {
+        "name": "Fabio Cortinovis",
+        "team": "Inter",
+        "birth": "20/04/2002",
+        "pos": "DF"
+    },
+    {
+        "name": "Davide Costanzo",
+        "team": "SSC Napoli",
+        "birth": "04/07/2002",
+        "pos": "DF"
+    },
+    {
+        "name": "Lassana Coulibaly",
+        "team": "US Salernitana 1919",
+        "birth": "10/04/1996",
+        "pos": "MF"
+    },
+    {
+        "name": "Mamadou Coulibaly",
+        "team": "US Salernitana 1919",
+        "birth": "03/02/1999",
+        "pos": "MF"
+    },
+    {
+        "name": "Alessio Cragno",
+        "team": "Cagliari Calcio",
+        "birth": "28/06/1994",
+        "pos": "GK"
+    },
+    {
+        "name": "Domenico Criscito",
+        "team": "Genoa CFC",
+        "birth": "30/12/1986",
+        "pos": "DF"
+    },
+    {
+        "name": "Bryan Cristante",
+        "team": "AS Roma",
+        "birth": "03/03/1995",
+        "pos": "MF"
+    },
+    {
+        "name": "Domen \u010crnigoj",
+        "team": "Venezia FC",
+        "birth": "18/11/1995",
+        "pos": "MF"
+    },
+    {
+        "name": "Juan Cuadrado",
+        "team": "Juventus",
+        "birth": "26/05/1988",
+        "pos": "DF"
+    },
+    {
+        "name": "Micka\u00ebl Cuisance",
+        "team": "Venezia FC",
+        "birth": "16/08/1999",
+        "pos": "MF"
+    },
+    {
+        "name": "Dennis Curatolo",
+        "team": "Inter",
+        "birth": "03/04/2004",
+        "pos": "FW"
+    },
+    {
+        "name": "Patrick Cutrone",
+        "team": "Empoli FC",
+        "birth": "03/01/1998",
+        "pos": "FW"
+    },
+    {
+        "name": "Lennart Czyborra",
+        "team": "Genoa CFC",
+        "birth": "03/05/1999",
+        "pos": "DF"
+    },
+    {
+        "name": "Danilo D'Ambrosio",
+        "team": "Inter",
+        "birth": "09/09/1988",
+        "pos": "DF"
+    },
+    {
+        "name": "Andrea D'Aniello",
+        "team": "Cagliari Calcio",
+        "birth": "08/05/2003",
+        "pos": "GK"
+    },
+    {
+        "name": "Cosimo Da Graca",
+        "team": "Juventus",
+        "birth": "01/05/2002",
+        "pos": "FW"
+    },
+    {
+        "name": "Matev\u017e Daj\u010dar",
+        "team": "Atalanta",
+        "birth": "05/02/2002",
+        "pos": "GK"
+    },
+    {
+        "name": " Dalbert",
+        "team": "Cagliari Calcio",
+        "birth": "08/09/1993",
+        "pos": "DF"
+    },
+    {
+        "name": "Mattia Damiani",
+        "team": "Udinese Calcio",
+        "birth": "25/02/2003",
+        "pos": "MF"
+    },
+    {
+        "name": "Mikkel Damsgaard",
+        "team": "Sampdoria",
+        "birth": "03/07/2000",
+        "pos": "FW"
+    },
+    {
+        "name": " Daniel Bessa",
+        "team": "Hellas Verona",
+        "birth": "14/01/1993",
+        "pos": "MF"
+    },
+    {
+        "name": " Daniel Fuzato",
+        "team": "AS Roma",
+        "birth": "04/07/1997",
+        "pos": "GK"
+    },
+    {
+        "name": " Danilo",
+        "team": "Juventus",
+        "birth": "15/07/1991",
+        "pos": "DF"
+    },
+    {
+        "name": "Ebrima Darboe",
+        "team": "AS Roma",
+        "birth": "06/06/2001",
+        "pos": "MF"
+    },
+    {
+        "name": "Matteo Darmian",
+        "team": "Inter",
+        "birth": "02/12/1989",
+        "pos": "DF"
+    },
+    {
+        "name": "Pawe\u0142 Dawidowicz",
+        "team": "Hellas Verona",
+        "birth": "20/05/1995",
+        "pos": "DF"
+    },
+    {
+        "name": "Matthijs de Ligt",
+        "team": "Juventus",
+        "birth": "12/08/1999",
+        "pos": "DF"
+    },
+    {
+        "name": "Tommaso De Lorenzo",
+        "team": "US Salernitana 1919",
+        "birth": "12/01/2004",
+        "pos": "DF"
+    },
+    {
+        "name": "Jacopo De Matteis",
+        "team": "US Salernitana 1919",
+        "birth": "28/12/2002",
+        "pos": "GK"
+    },
+    {
+        "name": "Tommaso De Nipoti",
+        "team": "Atalanta",
+        "birth": "23/07/2003",
+        "pos": "FW"
+    },
+    {
+        "name": "Marten de Roon",
+        "team": "Atalanta",
+        "birth": "29/03/1991",
+        "pos": "MF"
+    },
+    {
+        "name": "Mattia De Sciglio",
+        "team": "Juventus",
+        "birth": "20/10/1992",
+        "pos": "DF"
+    },
+    {
+        "name": "Lorenzo De Silvestri",
+        "team": "Bologna FC",
+        "birth": "23/05/1988",
+        "pos": "DF"
+    },
+    {
+        "name": "Jack de Vries",
+        "team": "Venezia FC",
+        "birth": "28/03/2002",
+        "pos": "MF"
+    },
+    {
+        "name": "Stefan de Vrij",
+        "team": "Inter",
+        "birth": "05/02/1992",
+        "pos": "DF"
+    },
+    {
+        "name": "Koni De Winter",
+        "team": "Juventus",
+        "birth": "12/06/2002",
+        "pos": "DF"
+    },
+    {
+        "name": "Gr\u00e9goire Defrel",
+        "team": "Sassuolo Calcio",
+        "birth": "17/06/1991",
+        "pos": "FW"
+    },
+    {
+        "name": "Alessandro Deiola",
+        "team": "Cagliari Calcio",
+        "birth": "01/08/1995",
+        "pos": "MF"
+    },
+    {
+        "name": "Isa\u00edas Del Pupo",
+        "team": "Cagliari Calcio",
+        "birth": "31/03/2003",
+        "pos": "MF"
+    },
+    {
+        "name": "Filippo Delli Carri",
+        "team": "US Salernitana 1919",
+        "birth": "03/05/1999",
+        "pos": "DF"
+    },
+    {
+        "name": "Dennis Delori\u00e8",
+        "team": "Spezia Calcio",
+        "birth": "06/11/2004",
+        "pos": "FW"
+    },
+    {
+        "name": "Merih Demiral",
+        "team": "Atalanta",
+        "birth": "05/03/1998",
+        "pos": "DF"
+    },
+    {
+        "name": "Diego Demme",
+        "team": "SSC Napoli",
+        "birth": "21/11/1991",
+        "pos": "MF"
+    },
+    {
+        "name": "Fabio Depaoli",
+        "team": "Hellas Verona",
+        "birth": "24/04/1997",
+        "pos": "DF"
+    },
+    {
+        "name": "Jacopo Desogus",
+        "team": "Cagliari Calcio",
+        "birth": "01/10/2002",
+        "pos": "FW"
+    },
+    {
+        "name": "Sebastiano Desplanches",
+        "team": "AC Milan",
+        "birth": "11/03/2003",
+        "pos": "GK"
+    },
+    {
+        "name": "Mattia Destro",
+        "team": "Genoa CFC",
+        "birth": "20/03/1991",
+        "pos": "FW"
+    },
+    {
+        "name": "Federico Di Francesco",
+        "team": "Empoli FC",
+        "birth": "14/06/1994",
+        "pos": "FW"
+    },
+    {
+        "name": "Enrico Di Ges\u00f9",
+        "team": "AC Milan",
+        "birth": "26/03/2002",
+        "pos": "MF"
+    },
+    {
+        "name": "Giovanni Di Lorenzo",
+        "team": "SSC Napoli",
+        "birth": "04/08/1993",
+        "pos": "DF"
+    },
+    {
+        "name": "Lorenzo Di Stefano",
+        "team": "Sampdoria",
+        "birth": "19/09/2002",
+        "pos": "FW"
+    },
+    {
+        "name": "Francesco Di Tacchio",
+        "team": "US Salernitana 1919",
+        "birth": "20/04/1990",
+        "pos": "MF"
+    },
+    {
+        "name": "Amadou Diawara",
+        "team": "AS Roma",
+        "birth": "17/07/1997",
+        "pos": "MF"
+    },
+    {
+        "name": "Mitchell Dijks",
+        "team": "Bologna FC",
+        "birth": "09/02/1993",
+        "pos": "DF"
+    },
+    {
+        "name": "Federico Dimarco",
+        "team": "Inter",
+        "birth": "10/11/1997",
+        "pos": "DF"
+    },
+    {
+        "name": "Filippo Distefano",
+        "team": "ACF Fiorentina",
+        "birth": "28/08/2003",
+        "pos": "FW"
+    },
+    {
+        "name": "Koffi Djidji",
+        "team": "Torino FC",
+        "birth": "30/11/1992",
+        "pos": "DF"
+    },
+    {
+        "name": "Berat Djimsiti",
+        "team": "Atalanta",
+        "birth": "19/02/1993",
+        "pos": "DF"
+    },
+    {
+        "name": "Nicol\u00e1s Dom\u00ednguez",
+        "team": "Bologna FC",
+        "birth": "28/06/1998",
+        "pos": "MF"
+    },
+    {
+        "name": "Bart\u0142omiej Dr\u0105gowski",
+        "team": "ACF Fiorentina",
+        "birth": "19/08/1997",
+        "pos": "GK"
+    },
+    {
+        "name": "Radu Dr\u0103gu\u0219in",
+        "team": "US Salernitana 1919",
+        "birth": "03/02/2002",
+        "pos": "DF"
+    },
+    {
+        "name": "Denzel Dumfries",
+        "team": "Inter",
+        "birth": "18/04/1996",
+        "pos": "DF"
+    },
+    {
+        "name": "Alfred Duncan",
+        "team": "ACF Fiorentina",
+        "birth": "10/03/1993",
+        "pos": "MF"
+    },
+    {
+        "name": "Paulo Dybala",
+        "team": "Juventus",
+        "birth": "15/11/1993",
+        "pos": "FW"
+    },
+    {
+        "name": "Edin D\u017eeko",
+        "team": "Inter",
+        "birth": "17/03/1986",
+        "pos": "FW"
+    },
+    {
+        "name": "Patryk Dziczek",
+        "team": "Lazio Roma",
+        "birth": "25/03/1998",
+        "pos": "MF"
+    },
+    {
+        "name": "Milan \u0110uri\u0107",
+        "team": "US Salernitana 1919",
+        "birth": "22/05/1990",
+        "pos": "FW"
+    },
+    {
+        "name": "Filip \u0110uri\u010di\u0107",
+        "team": "Sassuolo Calcio",
+        "birth": "30/01/1992",
+        "pos": "MF"
+    },
+    {
+        "name": "Tyronne Ebuehi",
+        "team": "Venezia FC",
+        "birth": "16/12/1995",
+        "pos": "DF"
+    },
+    {
+        "name": "Simone Edera",
+        "team": "Torino FC",
+        "birth": "09/01/1997",
+        "pos": "FW"
+    },
+    {
+        "name": " \u00c9derson",
+        "team": "US Salernitana 1919",
+        "birth": "07/07/1999",
+        "pos": "MF"
+    },
+    {
+        "name": "Destiny Egharevba",
+        "team": "ACF Fiorentina",
+        "birth": "04/02/2003",
+        "pos": "FW"
+    },
+    {
+        "name": "Albin Ekdal",
+        "team": "Sampdoria",
+        "birth": "28/07/1989",
+        "pos": "MF"
+    },
+    {
+        "name": "Emmanuel Ekong",
+        "team": "Empoli FC",
+        "birth": "25/06/2002",
+        "pos": "FW"
+    },
+    {
+        "name": "Caleb Ekuban",
+        "team": "Genoa CFC",
+        "birth": "23/03/1994",
+        "pos": "FW"
+    },
+    {
+        "name": "Stephan El Shaarawy",
+        "team": "AS Roma",
+        "birth": "27/10/1992",
+        "pos": "FW"
+    },
+    {
+        "name": "Eljif Elmas",
+        "team": "SSC Napoli",
+        "birth": "24/09/1999",
+        "pos": "MF"
+    },
+    {
+        "name": "Martin Erli\u0107",
+        "team": "Spezia Calcio",
+        "birth": "24/01/1998",
+        "pos": "DF"
+    },
+    {
+        "name": " Fabi\u00e1n Ruiz",
+        "team": "SSC Napoli",
+        "birth": "03/04/1996",
+        "pos": "MF"
+    },
+    {
+        "name": "Luca Falbo",
+        "team": "Lazio Roma",
+        "birth": "21/02/2000",
+        "pos": "DF"
+    },
+    {
+        "name": "Diego Falcinelli",
+        "team": "Bologna FC",
+        "birth": "26/06/1991",
+        "pos": "FW"
+    },
+    {
+        "name": "Wladimiro Falcone",
+        "team": "Sampdoria",
+        "birth": "12/04/1995",
+        "pos": "GK"
+    },
+    {
+        "name": "Davide Faraoni",
+        "team": "Hellas Verona",
+        "birth": "25/10/1991",
+        "pos": "DF"
+    },
+    {
+        "name": "Mohamed Fares",
+        "team": "Torino FC",
+        "birth": "15/02/1996",
+        "pos": "MF"
+    },
+    {
+        "name": "Federico Fazio",
+        "team": "US Salernitana 1919",
+        "birth": "17/03/1987",
+        "pos": "DF"
+    },
+    {
+        "name": "Jacopo Fazzini",
+        "team": "Empoli FC",
+        "birth": "16/03/2003",
+        "pos": "MF"
+    },
+    {
+        "name": "Jacopo Fedrizzi",
+        "team": "Udinese Calcio",
+        "birth": "18/03/2003",
+        "pos": "MF"
+    },
+    {
+        "name": " Felipe Anderson",
+        "team": "Lazio Roma",
+        "birth": "15/04/1993",
+        "pos": "FW"
+    },
+    {
+        "name": "Amir Feratovi\u010d",
+        "team": "AS Roma",
+        "birth": "08/06/2002",
+        "pos": "DF"
+    },
+    {
+        "name": "Alex Ferrari",
+        "team": "Sampdoria",
+        "birth": "01/07/1994",
+        "pos": "DF"
+    },
+    {
+        "name": "Gianmarco Ferrari",
+        "team": "Sassuolo Calcio",
+        "birth": "15/02/1992",
+        "pos": "DF"
+    },
+    {
+        "name": "Riccardo Fiamozzi",
+        "team": "Empoli FC",
+        "birth": "18/05/1993",
+        "pos": "DF"
+    },
+    {
+        "name": "Luca Fiordilino",
+        "team": "Venezia FC",
+        "birth": "25/07/1996",
+        "pos": "MF"
+    },
+    {
+        "name": "Vincenzo Fiorillo",
+        "team": "US Salernitana 1919",
+        "birth": "13/01/1990",
+        "pos": "GK"
+    },
+    {
+        "name": "Alessandro Florenzi",
+        "team": "AC Milan",
+        "birth": "11/03/1991",
+        "pos": "DF"
+    },
+    {
+        "name": "Romano Floriani",
+        "team": "Lazio Roma",
+        "birth": "27/01/2003",
+        "pos": "DF"
+    },
+    {
+        "name": "Mattia Florio",
+        "team": "Hellas Verona",
+        "birth": "05/09/2003",
+        "pos": "FW"
+    },
+    {
+        "name": "Gianluca Frabotta",
+        "team": "Hellas Verona",
+        "birth": "24/06/1999",
+        "pos": "DF"
+    },
+    {
+        "name": "Davide Franzini",
+        "team": "Bologna FC",
+        "birth": "08/02/2005",
+        "pos": "GK"
+    },
+    {
+        "name": "Davide Frattesi",
+        "team": "Sassuolo Calcio",
+        "birth": "22/09/1999",
+        "pos": "MF"
+    },
+    {
+        "name": "Morten Frendrup",
+        "team": "Genoa CFC",
+        "birth": "07/04/2001",
+        "pos": "MF"
+    },
+    {
+        "name": "Remo Freuler",
+        "team": "Atalanta",
+        "birth": "15/04/1992",
+        "pos": "MF"
+    },
+    {
+        "name": "Filippo Frison",
+        "team": "ACF Fiorentina",
+        "birth": "30/07/2002",
+        "pos": "DF"
+    },
+    {
+        "name": "Jacopo Furlan",
+        "team": "Empoli FC",
+        "birth": "22/02/1993",
+        "pos": "GK"
+    },
+    {
+        "name": "Alessio Furlanetto",
+        "team": "Lazio Roma",
+        "birth": "07/02/2002",
+        "pos": "GK"
+    },
+    {
+        "name": "Eugenio Fusco",
+        "team": "Cagliari Calcio",
+        "birth": "19/05/2003",
+        "pos": "GK"
+    },
+    {
+        "name": "Matteo Gabbia",
+        "team": "AC Milan",
+        "birth": "21/10/1999",
+        "pos": "DF"
+    },
+    {
+        "name": "Manolo Gabbiadini",
+        "team": "Sampdoria",
+        "birth": "26/11/1991",
+        "pos": "FW"
+    },
+    {
+        "name": "Luca Gagliano",
+        "team": "Cagliari Calcio",
+        "birth": "14/07/2000",
+        "pos": "FW"
+    },
+    {
+        "name": "Roberto Gagliardini",
+        "team": "Inter",
+        "birth": "07/04/1994",
+        "pos": "MF"
+    },
+    {
+        "name": "Riccardo Gagliolo",
+        "team": "US Salernitana 1919",
+        "birth": "28/04/1990",
+        "pos": "DF"
+    },
+    {
+        "name": "Pablo Galdames",
+        "team": "Genoa CFC",
+        "birth": "30/12/1996",
+        "pos": "MF"
+    },
+    {
+        "name": "Matthew Garbett",
+        "team": "Torino FC",
+        "birth": "13/04/2002",
+        "pos": "FW"
+    },
+    {
+        "name": "Manuel Gasparini",
+        "team": "Udinese Calcio",
+        "birth": "19/05/2002",
+        "pos": "GK"
+    },
+    {
+        "name": "Luca Gemello",
+        "team": "Torino FC",
+        "birth": "03/07/2000",
+        "pos": "GK"
+    },
+    {
+        "name": " Gerard Deulofeu",
+        "team": "Udinese Calcio",
+        "birth": "13/03/1994",
+        "pos": "FW"
+    },
+    {
+        "name": "Paolo Ghiglione",
+        "team": "Genoa CFC",
+        "birth": "02/02/1997",
+        "pos": "MF"
+    },
+    {
+        "name": "Faouzi Ghoulam",
+        "team": "SSC Napoli",
+        "birth": "01/02/1991",
+        "pos": "DF"
+    },
+    {
+        "name": "Samuel Giovane",
+        "team": "Atalanta",
+        "birth": "28/03/2003",
+        "pos": "MF"
+    },
+    {
+        "name": "Sebastian Giovinco",
+        "team": "Sampdoria",
+        "birth": "26/01/1987",
+        "pos": "FW"
+    },
+    {
+        "name": "Olivier Giroud",
+        "team": "AC Milan",
+        "birth": "30/09/1986",
+        "pos": "FW"
+    },
+    {
+        "name": "Edoardo Goldaniga",
+        "team": "Cagliari Calcio",
+        "birth": "02/11/1993",
+        "pos": "DF"
+    },
+    {
+        "name": "Nicol\u00e1s Gonz\u00e1lez",
+        "team": "ACF Fiorentina",
+        "birth": "06/04/1998",
+        "pos": "FW"
+    },
+    {
+        "name": "Robin Gosens",
+        "team": "Inter",
+        "birth": "05/07/1994",
+        "pos": "MF"
+    },
+    {
+        "name": "Alberto Grassi",
+        "team": "Cagliari Calcio",
+        "birth": "07/03/1995",
+        "pos": "MF"
+    },
+    {
+        "name": "Albert Gu\u00f0mundsson",
+        "team": "Genoa CFC",
+        "birth": "15/06/1997",
+        "pos": "FW"
+    },
+    {
+        "name": "Angelo Guida",
+        "team": "US Salernitana 1919",
+        "birth": "24/08/2002",
+        "pos": "FW"
+    },
+    {
+        "name": "Koray G\u00fcnter",
+        "team": "Hellas Verona",
+        "birth": "16/08/1994",
+        "pos": "DF"
+    },
+    {
+        "name": "Emmanuel Gyasi",
+        "team": "Spezia Calcio",
+        "birth": "11/01/1994",
+        "pos": "FW"
+    },
+    {
+        "name": "Norbert Gy\u00f6mb\u00e9r",
+        "team": "US Salernitana 1919",
+        "birth": "03/07/1992",
+        "pos": "DF"
+    },
+    {
+        "name": "Nicolas Haas",
+        "team": "Empoli FC",
+        "birth": "23/01/1996",
+        "pos": "MF"
+    },
+    {
+        "name": "Samir Handanovi\u010d",
+        "team": "Inter",
+        "birth": "14/07/1984",
+        "pos": "GK"
+    },
+    {
+        "name": "Ridgeciano Haps",
+        "team": "Venezia FC",
+        "birth": "12/06/1993",
+        "pos": "DF"
+    },
+    {
+        "name": "Abdou Harroui",
+        "team": "Sassuolo Calcio",
+        "birth": "13/01/1998",
+        "pos": "MF"
+    },
+    {
+        "name": "Hans Hateboer",
+        "team": "Atalanta",
+        "birth": "09/01/1994",
+        "pos": "DF"
+    },
+    {
+        "name": "Silvan Hefti",
+        "team": "Genoa CFC",
+        "birth": "25/10/1997",
+        "pos": "DF"
+    },
+    {
+        "name": "Liam Henderson",
+        "team": "Empoli FC",
+        "birth": "25/04/1996",
+        "pos": "MF"
+    },
+    {
+        "name": "Thomas Henry",
+        "team": "Venezia FC",
+        "birth": "20/09/1994",
+        "pos": "FW"
+    },
+    {
+        "name": "Theo Hern\u00e1ndez",
+        "team": "AC Milan",
+        "birth": "06/10/1997",
+        "pos": "DF"
+    },
+    {
+        "name": " Hernani",
+        "team": "Genoa CFC",
+        "birth": "27/03/1994",
+        "pos": "MF"
+    },
+    {
+        "name": "Aaron Hickey",
+        "team": "Bologna FC",
+        "birth": "10/06/2002",
+        "pos": "DF"
+    },
+    {
+        "name": "Martin Hongla",
+        "team": "Hellas Verona",
+        "birth": "16/03/1998",
+        "pos": "MF"
+    },
+    {
+        "name": "Petko Hristov",
+        "team": "Spezia Calcio",
+        "birth": "01/03/1999",
+        "pos": "DF"
+    },
+    {
+        "name": "Klemen Hvali\u010d",
+        "team": "Empoli FC",
+        "birth": "18/04/2002",
+        "pos": "GK"
+    },
+    {
+        "name": "Elseid Hysaj",
+        "team": "Lazio Roma",
+        "birth": "02/02/1994",
+        "pos": "DF"
+    },
+    {
+        "name": "Simone Ianesi",
+        "team": "Udinese Calcio",
+        "birth": "13/02/2002",
+        "pos": "FW"
+    },
+    {
+        "name": " Iba\u00f1ez",
+        "team": "AS Roma",
+        "birth": "23/11/1998",
+        "pos": "DF"
+    },
+    {
+        "name": "Zlatan Ibrahimovi\u0107",
+        "team": "AC Milan",
+        "birth": "03/10/1981",
+        "pos": "FW"
+    },
+    {
+        "name": "Hubert Idasiak",
+        "team": "SSC Napoli",
+        "birth": "03/02/2002",
+        "pos": "GK"
+    },
+    {
+        "name": "Antonio Iervolino",
+        "team": "US Salernitana 1919",
+        "birth": "23/05/2003",
+        "pos": "MF"
+    },
+    {
+        "name": " Igor",
+        "team": "ACF Fiorentina",
+        "birth": "07/02/1998",
+        "pos": "DF"
+    },
+    {
+        "name": "Jonathan Ikon\u00e9",
+        "team": "ACF Fiorentina",
+        "birth": "02/05/1998",
+        "pos": "FW"
+    },
+    {
+        "name": "Ivan Ili\u0107",
+        "team": "Hellas Verona",
+        "birth": "17/03/2001",
+        "pos": "MF"
+    },
+    {
+        "name": "Josip Ili\u010di\u010d",
+        "team": "Atalanta",
+        "birth": "29/01/1988",
+        "pos": "FW"
+    },
+    {
+        "name": "Ciro Immobile",
+        "team": "Lazio Roma",
+        "birth": "20/02/1990",
+        "pos": "FW"
+    },
+    {
+        "name": "Lorenzo Insigne",
+        "team": "SSC Napoli",
+        "birth": "04/06/1991",
+        "pos": "FW"
+    },
+    {
+        "name": "Iurie Iovu",
+        "team": "Cagliari Calcio",
+        "birth": "06/07/2002",
+        "pos": "DF"
+    },
+    {
+        "name": "Ardian Ismajli",
+        "team": "Empoli FC",
+        "birth": "30/09/1996",
+        "pos": "DF"
+    },
+    {
+        "name": "Franco Israel",
+        "team": "Juventus",
+        "birth": "22/04/2000",
+        "pos": "GK"
+    },
+    {
+        "name": "Armando Izzo",
+        "team": "Torino FC",
+        "birth": "02/03/1992",
+        "pos": "DF"
+    },
+    {
+        "name": "Mato Jajalo",
+        "team": "Udinese Calcio",
+        "birth": "24/05/1988",
+        "pos": "MF"
+    },
+    {
+        "name": " Jan Oliveras",
+        "team": "AS Roma",
+        "birth": "07/07/2004",
+        "pos": "DF"
+    },
+    {
+        "name": "Pawe\u0142 Jaroszy\u0144ski",
+        "team": "US Salernitana 1919",
+        "birth": "02/10/1994",
+        "pos": "DF"
+    },
+    {
+        "name": "Raed Jaziri",
+        "team": "Udinese Calcio",
+        "birth": "13/04/2003",
+        "pos": "MF"
+    },
+    {
+        "name": " Jo\u00e3o Pedro",
+        "team": "Cagliari Calcio",
+        "birth": "09/03/1992",
+        "pos": "FW"
+    },
+    {
+        "name": "Dennis Johnsen",
+        "team": "Venezia FC",
+        "birth": "17/02/1998",
+        "pos": "FW"
+    },
+    {
+        "name": " Jorge Silva",
+        "team": "Lazio Roma",
+        "birth": "04/02/1999",
+        "pos": "DF"
+    },
+    {
+        "name": " Jos\u00e9 Callej\u00f3n",
+        "team": "ACF Fiorentina",
+        "birth": "11/02/1987",
+        "pos": "FW"
+    },
+    {
+        "name": " Jovane Cabral",
+        "team": "Lazio Roma",
+        "birth": "14/06/1998",
+        "pos": "FW"
+    },
+    {
+        "name": " Juan Jesus",
+        "team": "SSC Napoli",
+        "birth": "10/06/1991",
+        "pos": "DF"
+    },
+    {
+        "name": "Andreas Jungdal",
+        "team": "AC Milan",
+        "birth": "22/02/2002",
+        "pos": "GK"
+    },
+    {
+        "name": " Junior Messias",
+        "team": "AC Milan",
+        "birth": "13/05/1991",
+        "pos": "FW"
+    },
+    {
+        "name": "Musa Juwara",
+        "team": "Bologna FC",
+        "birth": "26/12/2001",
+        "pos": "FW"
+    },
+    {
+        "name": " Kaio Jorge",
+        "team": "Juventus",
+        "birth": "24/01/2002",
+        "pos": "FW"
+    },
+    {
+        "name": "Yayah Kallon",
+        "team": "Genoa CFC",
+        "birth": "30/06/2001",
+        "pos": "FW"
+    },
+    {
+        "name": "Pierre Kalulu",
+        "team": "AC Milan",
+        "birth": "05/06/2000",
+        "pos": "DF"
+    },
+    {
+        "name": "Dimitrije Kamenovi\u0107",
+        "team": "Lazio Roma",
+        "birth": "16/07/2000",
+        "pos": "DF"
+    },
+    {
+        "name": "Rick Karsdorp",
+        "team": "AS Roma",
+        "birth": "11/02/1995",
+        "pos": "DF"
+    },
+    {
+        "name": "Denso Kasius",
+        "team": "Bologna FC",
+        "birth": "06/10/2002",
+        "pos": "DF"
+    },
+    {
+        "name": "Grigoris Kastanos",
+        "team": "US Salernitana 1919",
+        "birth": "30/01/1998",
+        "pos": "MF"
+    },
+    {
+        "name": "Moise Kean",
+        "team": "Juventus",
+        "birth": "28/02/2000",
+        "pos": "FW"
+    },
+    {
+        "name": "Wajdi Kechrida",
+        "team": "US Salernitana 1919",
+        "birth": "05/11/1995",
+        "pos": "MF"
+    },
+    {
+        "name": "Dimitrios Keramitsis",
+        "team": "AS Roma",
+        "birth": "01/07/2004",
+        "pos": "DF"
+    },
+    {
+        "name": "Franck Kessi\u00e9",
+        "team": "AC Milan",
+        "birth": "19/12/1996",
+        "pos": "MF"
+    },
+    {
+        "name": "Kaur Kivila",
+        "team": "Hellas Verona",
+        "birth": "22/11/2003",
+        "pos": "GK"
+    },
+    {
+        "name": "Jakub Kiwior",
+        "team": "Spezia Calcio",
+        "birth": "15/02/2000",
+        "pos": "DF"
+    },
+    {
+        "name": "Sofian Kiyine",
+        "team": "Venezia FC",
+        "birth": "02/10/1997",
+        "pos": "MF"
+    },
+    {
+        "name": "Simon Kj\u00e6r",
+        "team": "AC Milan",
+        "birth": "26/03/1989",
+        "pos": "DF"
+    },
+    {
+        "name": "Aleksandr Kokorin",
+        "team": "ACF Fiorentina",
+        "birth": "19/03/1991",
+        "pos": "FW"
+    },
+    {
+        "name": "Aleksandar Kolarov",
+        "team": "Inter",
+        "birth": "10/11/1985",
+        "pos": "DF"
+    },
+    {
+        "name": "Teun Koopmeiners",
+        "team": "Atalanta",
+        "birth": "28/02/1998",
+        "pos": "MF"
+    },
+    {
+        "name": "Kalidou Koulibaly",
+        "team": "SSC Napoli",
+        "birth": "20/06/1991",
+        "pos": "DF"
+    },
+    {
+        "name": "Christos Kourfalidis",
+        "team": "Cagliari Calcio",
+        "birth": "11/11/2002",
+        "pos": "MF"
+    },
+    {
+        "name": "Viktor Kovalenko",
+        "team": "Spezia Calcio",
+        "birth": "14/02/1996",
+        "pos": "MF"
+    },
+    {
+        "name": "Rade Kruni\u0107",
+        "team": "AC Milan",
+        "birth": "07/10/1993",
+        "pos": "MF"
+    },
+    {
+        "name": "Jan Kubala",
+        "team": "Udinese Calcio",
+        "birth": "05/05/2000",
+        "pos": "DF"
+    },
+    {
+        "name": "Marash Kumbulla",
+        "team": "AS Roma",
+        "birth": "08/02/2000",
+        "pos": "DF"
+    },
+    {
+        "name": "Justin Kumi",
+        "team": "Sassuolo Calcio",
+        "birth": "16/07/2004",
+        "pos": "MF"
+    },
+    {
+        "name": "Giorgos Kyriakopoulos",
+        "team": "Sassuolo Calcio",
+        "birth": "05/02/1996",
+        "pos": "DF"
+    },
+    {
+        "name": "Andrea La Mantia",
+        "team": "Empoli FC",
+        "birth": "06/05/1991",
+        "pos": "FW"
+    },
+    {
+        "name": "Kevin Lasagna",
+        "team": "Hellas Verona",
+        "birth": "10/08/1992",
+        "pos": "FW"
+    },
+    {
+        "name": "Roman Laz\u0103r",
+        "team": "Venezia FC",
+        "birth": "???",
+        "pos": "GK"
+    },
+    {
+        "name": "Marko Lazeti\u0107",
+        "team": "AC Milan",
+        "birth": "22/01/2004",
+        "pos": "FW"
+    },
+    {
+        "name": "Darko Lazovi\u0107",
+        "team": "Hellas Verona",
+        "birth": "15/09/1990",
+        "pos": "MF"
+    },
+    {
+        "name": "Manuel Lazzari",
+        "team": "Lazio Roma",
+        "birth": "29/11/1993",
+        "pos": "MF"
+    },
+    {
+        "name": " L\u00e9o Sena",
+        "team": "Spezia Calcio",
+        "birth": "31/12/1995",
+        "pos": "MF"
+    },
+    {
+        "name": "Luca Lezzerini",
+        "team": "Venezia FC",
+        "birth": "24/03/1995",
+        "pos": "GK"
+    },
+    {
+        "name": "Karol Linetty",
+        "team": "Torino FC",
+        "birth": "02/02/1995",
+        "pos": "MF"
+    },
+    {
+        "name": "Stanislav Lobotka",
+        "team": "SSC Napoli",
+        "birth": "25/11/1994",
+        "pos": "MF"
+    },
+    {
+        "name": "Manuel Locatelli",
+        "team": "Juventus",
+        "birth": "08/01/1998",
+        "pos": "MF"
+    },
+    {
+        "name": "Eldin Loli\u0107",
+        "team": "Cagliari Calcio",
+        "birth": "15/05/2004",
+        "pos": "GK"
+    },
+    {
+        "name": "Maxime L\u00f3pez",
+        "team": "Sassuolo Calcio",
+        "birth": "04/12/1997",
+        "pos": "MF"
+    },
+    {
+        "name": "Matteo Lovato",
+        "team": "Cagliari Calcio",
+        "birth": "14/02/2000",
+        "pos": "DF"
+    },
+    {
+        "name": "Hirving Lozano",
+        "team": "SSC Napoli",
+        "birth": "30/07/1995",
+        "pos": "FW"
+    },
+    {
+        "name": " Lucas Leiva",
+        "team": "Lazio Roma",
+        "birth": "09/01/1987",
+        "pos": "MF"
+    },
+    {
+        "name": " Luis Alberto",
+        "team": "Lazio Roma",
+        "birth": "28/11/1992",
+        "pos": "MF"
+    },
+    {
+        "name": " Luiz Felipe",
+        "team": "Lazio Roma",
+        "birth": "22/03/1997",
+        "pos": "DF"
+    },
+    {
+        "name": "Sa\u0161a Luki\u0107",
+        "team": "Torino FC",
+        "birth": "13/08/1996",
+        "pos": "MF"
+    },
+    {
+        "name": "Sebastiano Luperto",
+        "team": "Empoli FC",
+        "birth": "06/09/1996",
+        "pos": "DF"
+    },
+    {
+        "name": "Zito Luvumbo",
+        "team": "Cagliari Calcio",
+        "birth": "09/03/2002",
+        "pos": "FW"
+    },
+    {
+        "name": "Charalampos Lykogiannis",
+        "team": "Cagliari Calcio",
+        "birth": "22/10/1993",
+        "pos": "DF"
+    },
+    {
+        "name": "Ibrahima M'Baye",
+        "team": "Bologna FC",
+        "birth": "19/11/1994",
+        "pos": "DF"
+    },
+    {
+        "name": "Niki M\u00e4enp\u00e4\u00e4",
+        "team": "Venezia FC",
+        "birth": "23/01/1985",
+        "pos": "GK"
+    },
+    {
+        "name": "Giulio Maggiore",
+        "team": "Spezia Calcio",
+        "birth": "12/03/1998",
+        "pos": "MF"
+    },
+    {
+        "name": "Francesco Magnanelli",
+        "team": "Sassuolo Calcio",
+        "birth": "12/11/1984",
+        "pos": "MF"
+    },
+    {
+        "name": "Giangiacomo Magnani",
+        "team": "Sampdoria",
+        "birth": "04/10/1995",
+        "pos": "DF"
+    },
+    {
+        "name": "Mike Maignan",
+        "team": "AC Milan",
+        "birth": "03/07/1995",
+        "pos": "GK"
+    },
+    {
+        "name": "Ainsley Maitland-Niles",
+        "team": "AS Roma",
+        "birth": "29/08/1997",
+        "pos": "MF"
+    },
+    {
+        "name": "Morr\u00e9 Makadji",
+        "team": "Venezia FC",
+        "birth": "02/03/2004",
+        "pos": "DF"
+    },
+    {
+        "name": "Jean-Victor Makengo",
+        "team": "Udinese Calcio",
+        "birth": "12/06/1998",
+        "pos": "MF"
+    },
+    {
+        "name": "Nikola Maksimovi\u0107",
+        "team": "Genoa CFC",
+        "birth": "25/11/1991",
+        "pos": "DF"
+    },
+    {
+        "name": "K\u00e9vin Malcuit",
+        "team": "SSC Napoli",
+        "birth": "31/07/1991",
+        "pos": "DF"
+    },
+    {
+        "name": "Daniel Maldini",
+        "team": "AC Milan",
+        "birth": "11/10/2001",
+        "pos": "MF"
+    },
+    {
+        "name": "Youssef Maleh",
+        "team": "ACF Fiorentina",
+        "birth": "22/08/1998",
+        "pos": "MF"
+    },
+    {
+        "name": "Ruslan Malinovskiy",
+        "team": "Atalanta",
+        "birth": "04/05/1993",
+        "pos": "MF"
+    },
+    {
+        "name": "Rey Manaj",
+        "team": "Spezia Calcio",
+        "birth": "24/02/1997",
+        "pos": "FW"
+    },
+    {
+        "name": "Gianluca Mancini",
+        "team": "AS Roma",
+        "birth": "17/04/1996",
+        "pos": "DF"
+    },
+    {
+        "name": "Rolando Mandragora",
+        "team": "Torino FC",
+        "birth": "29/06/1997",
+        "pos": "MF"
+    },
+    {
+        "name": "Moussa Man\u00e8",
+        "team": "SSC Napoli",
+        "birth": "19/11/2003",
+        "pos": "DF"
+    },
+    {
+        "name": "Federico Marchetti",
+        "team": "Genoa CFC",
+        "birth": "07/02/1983",
+        "pos": "GK"
+    },
+    {
+        "name": "Riccardo Marchizza",
+        "team": "Empoli FC",
+        "birth": "26/03/1998",
+        "pos": "DF"
+    },
+    {
+        "name": "Davide Marfella",
+        "team": "SSC Napoli",
+        "birth": "15/09/1999",
+        "pos": "GK"
+    },
+    {
+        "name": "R\u0103zvan Marin",
+        "team": "Cagliari Calcio",
+        "birth": "23/05/1996",
+        "pos": "MF"
+    },
+    {
+        "name": " M\u00e1rio Rui",
+        "team": "SSC Napoli",
+        "birth": "27/05/1991",
+        "pos": "DF"
+    },
+    {
+        "name": "Lautaro Mart\u00ednez",
+        "team": "Inter",
+        "birth": "22/08/1997",
+        "pos": "FW"
+    },
+    {
+        "name": "Lucas Mart\u00ednez Quarta",
+        "team": "ACF Fiorentina",
+        "birth": "10/05/1996",
+        "pos": "DF"
+    },
+    {
+        "name": "Adam Maru\u0161i\u0107",
+        "team": "Lazio Roma",
+        "birth": "17/10/1992",
+        "pos": "DF"
+    },
+    {
+        "name": "Andrea Masiello",
+        "team": "Genoa CFC",
+        "birth": "05/02/1986",
+        "pos": "DF"
+    },
+    {
+        "name": "Davide Mastrantonio",
+        "team": "AS Roma",
+        "birth": "16/01/2004",
+        "pos": "GK"
+    },
+    {
+        "name": "Asan Mata",
+        "team": "Sassuolo Calcio",
+        "birth": "18/08/2003",
+        "pos": "MF"
+    },
+    {
+        "name": "Ale\u0161 Mat\u011bj\u016f",
+        "team": "Venezia FC",
+        "birth": "03/06/1996",
+        "pos": "DF"
+    },
+    {
+        "name": " Matheus Henrique",
+        "team": "Sassuolo Calcio",
+        "birth": "19/12/1997",
+        "pos": "MF"
+    },
+    {
+        "name": "Pasquale Mazzocchi",
+        "team": "US Salernitana 1919",
+        "birth": "27/07/1995",
+        "pos": "DF"
+    },
+    {
+        "name": "Joakim M\u00e6hle",
+        "team": "Atalanta",
+        "birth": "20/05/1997",
+        "pos": "DF"
+    },
+    {
+        "name": "Weston McKennie",
+        "team": "Juventus",
+        "birth": "28/08/1998",
+        "pos": "MF"
+    },
+    {
+        "name": "Gary Medel",
+        "team": "Bologna FC",
+        "birth": "03/08/1987",
+        "pos": "DF"
+    },
+    {
+        "name": "Filippo Melegoni",
+        "team": "Genoa CFC",
+        "birth": "18/02/1999",
+        "pos": "MF"
+    },
+    {
+        "name": "Alex Meret",
+        "team": "SSC Napoli",
+        "birth": "22/03/1997",
+        "pos": "GK"
+    },
+    {
+        "name": "Dries Mertens",
+        "team": "SSC Napoli",
+        "birth": "06/05/1987",
+        "pos": "FW"
+    },
+    {
+        "name": "Kingsley Michael",
+        "team": "Bologna FC",
+        "birth": "26/08/1999",
+        "pos": "MF"
+    },
+    {
+        "name": "Francesco Migliardi",
+        "team": "Sampdoria",
+        "birth": "19/03/2003",
+        "pos": "DF"
+    },
+    {
+        "name": " Miguel Veloso",
+        "team": "Hellas Verona",
+        "birth": "11/05/1986",
+        "pos": "MF"
+    },
+    {
+        "name": "Valentin Mih\u0103il\u0103",
+        "team": "Atalanta",
+        "birth": "02/02/2000",
+        "pos": "FW"
+    },
+    {
+        "name": " Mikael",
+        "team": "US Salernitana 1919",
+        "birth": "28/05/1999",
+        "pos": "FW"
+    },
+    {
+        "name": "Alberto Milan",
+        "team": "Torino FC",
+        "birth": "04/04/2003",
+        "pos": "GK"
+    },
+    {
+        "name": "Nikola Milenkovi\u0107",
+        "team": "ACF Fiorentina",
+        "birth": "12/10/1997",
+        "pos": "DF"
+    },
+    {
+        "name": "Sergej Milinkovi\u0107-Savi\u0107",
+        "team": "Lazio Roma",
+        "birth": "27/02/1995",
+        "pos": "MF"
+    },
+    {
+        "name": "Vanja Milinkovi\u0107-Savi\u0107",
+        "team": "Torino FC",
+        "birth": "20/02/1997",
+        "pos": "GK"
+    },
+    {
+        "name": "Aleksey Miranchuk",
+        "team": "Atalanta",
+        "birth": "17/10/1995",
+        "pos": "MF"
+    },
+    {
+        "name": "Antonio Mirante",
+        "team": "AC Milan",
+        "birth": "08/07/1983",
+        "pos": "GK"
+    },
+    {
+        "name": "Fabio Miretti",
+        "team": "Juventus",
+        "birth": "03/08/2003",
+        "pos": "MF"
+    },
+    {
+        "name": "Filippo Missori",
+        "team": "AS Roma",
+        "birth": "24/03/2004",
+        "pos": "DF"
+    },
+    {
+        "name": "Henrikh Mkhitaryan",
+        "team": "AS Roma",
+        "birth": "21/01/1989",
+        "pos": "MF"
+    },
+    {
+        "name": "Marco Modolo",
+        "team": "Venezia FC",
+        "birth": "23/03/1989",
+        "pos": "DF"
+    },
+    {
+        "name": "Nahuel Molina",
+        "team": "Udinese Calcio",
+        "birth": "02/12/1997",
+        "pos": "DF"
+    },
+    {
+        "name": "Cristian Molinaro",
+        "team": "Venezia FC",
+        "birth": "30/07/1983",
+        "pos": "DF"
+    },
+    {
+        "name": "Marco Molla",
+        "team": "Bologna FC",
+        "birth": "19/06/2002",
+        "pos": "GK"
+    },
+    {
+        "name": "Daniele Montevago",
+        "team": "Sampdoria",
+        "birth": "18/03/2003",
+        "pos": "FW"
+    },
+    {
+        "name": "Lorenzo Montip\u00f2",
+        "team": "Hellas Verona",
+        "birth": "20/02/1996",
+        "pos": "GK"
+    },
+    {
+        "name": " Morata",
+        "team": "Juventus",
+        "birth": "23/10/1992",
+        "pos": "FW"
+    },
+    {
+        "name": "Giacomo Moretti",
+        "team": "Lazio Roma",
+        "birth": "07/01/2003",
+        "pos": "GK"
+    },
+    {
+        "name": "Andrei Mo\u021boc",
+        "team": "US Salernitana 1919",
+        "birth": "13/04/2002",
+        "pos": "MF"
+    },
+    {
+        "name": "Lys Mousset",
+        "team": "US Salernitana 1919",
+        "birth": "08/02/1996",
+        "pos": "FW"
+    },
+    {
+        "name": "Filippo Mozzo",
+        "team": "Venezia FC",
+        "birth": "21/04/2004",
+        "pos": "MF"
+    },
+    {
+        "name": "Mert M\u00fcld\u00fcr",
+        "team": "Sassuolo Calcio",
+        "birth": "03/04/1999",
+        "pos": "DF"
+    },
+    {
+        "name": "Louis Munteanu",
+        "team": "ACF Fiorentina",
+        "birth": "16/06/2002",
+        "pos": "FW"
+    },
+    {
+        "name": "Emir Murati",
+        "team": "AC Milan",
+        "birth": "07/03/2000",
+        "pos": "MF"
+    },
+    {
+        "name": "Luis Muriel",
+        "team": "Atalanta",
+        "birth": "16/04/1991",
+        "pos": "FW"
+    },
+    {
+        "name": "Nicola Murru",
+        "team": "Sampdoria",
+        "birth": "16/12/1994",
+        "pos": "DF"
+    },
+    {
+        "name": "Juan Musso",
+        "team": "Atalanta",
+        "birth": "06/05/1994",
+        "pos": "GK"
+    },
+    {
+        "name": "Nahitan N\u00e1ndez",
+        "team": "Cagliari Calcio",
+        "birth": "28/12/1995",
+        "pos": "MF"
+    },
+    {
+        "name": " Nani",
+        "team": "Venezia FC",
+        "birth": "17/11/1986",
+        "pos": "MF"
+    },
+    {
+        "name": "Matija Nastasi\u0107",
+        "team": "ACF Fiorentina",
+        "birth": "28/03/1993",
+        "pos": "DF"
+    },
+    {
+        "name": "Lapo Nava",
+        "team": "AC Milan",
+        "birth": "22/01/2004",
+        "pos": "GK"
+    },
+    {
+        "name": "Maissa Ndiaye",
+        "team": "AS Roma",
+        "birth": "28/01/2002",
+        "pos": "DF"
+    },
+    {
+        "name": "Filippo Neri",
+        "team": "Venezia FC",
+        "birth": "04/12/2002",
+        "pos": "GK"
+    },
+    {
+        "name": "Ilija Nestorovski",
+        "team": "Udinese Calcio",
+        "birth": "12/03/1990",
+        "pos": "FW"
+    },
+    {
+        "name": "Aur\u00e9lien Nguiamba",
+        "team": "Spezia Calcio",
+        "birth": "18/01/1999",
+        "pos": "MF"
+    },
+    {
+        "name": "Dimitrios Nikolaou",
+        "team": "Spezia Calcio",
+        "birth": "13/08/1998",
+        "pos": "DF"
+    },
+    {
+        "name": "Fallou Njie",
+        "team": "Genoa CFC",
+        "birth": "05/01/1999",
+        "pos": "DF"
+    },
+    {
+        "name": "Jean-Pierre Nsame",
+        "team": "Venezia FC",
+        "birth": "01/05/1993",
+        "pos": "FW"
+    },
+    {
+        "name": "Bram Nuytinck",
+        "team": "Udinese Calcio",
+        "birth": "04/05/1990",
+        "pos": "DF"
+    },
+    {
+        "name": "M'Bala Nzola",
+        "team": "Spezia Calcio",
+        "birth": "18/08/1996",
+        "pos": "FW"
+    },
+    {
+        "name": "Adam Obert",
+        "team": "Cagliari Calcio",
+        "birth": "23/08/2002",
+        "pos": "DF"
+    },
+    {
+        "name": "Joel Obi",
+        "team": "US Salernitana 1919",
+        "birth": "22/05/1991",
+        "pos": "MF"
+    },
+    {
+        "name": "Brian Oddei",
+        "team": "Sassuolo Calcio",
+        "birth": "18/09/2002",
+        "pos": "FW"
+    },
+    {
+        "name": " Odriozola",
+        "team": "ACF Fiorentina",
+        "birth": "14/12/1995",
+        "pos": "DF"
+    },
+    {
+        "name": "David Okereke",
+        "team": "Venezia FC",
+        "birth": "29/08/1997",
+        "pos": "FW"
+    },
+    {
+        "name": "Andrea Oliveri",
+        "team": "Atalanta",
+        "birth": "14/01/2003",
+        "pos": "MF"
+    },
+    {
+        "name": "Riccardo Orsolini",
+        "team": "Bologna FC",
+        "birth": "24/01/1997",
+        "pos": "FW"
+    },
+    {
+        "name": "Victor Osimhen",
+        "team": "SSC Napoli",
+        "birth": "29/12/1998",
+        "pos": "FW"
+    },
+    {
+        "name": "David Ospina",
+        "team": "SSC Napoli",
+        "birth": "31/08/1988",
+        "pos": "GK"
+    },
+    {
+        "name": "Adam Ounas",
+        "team": "SSC Napoli",
+        "birth": "11/11/1996",
+        "pos": "FW"
+    },
+    {
+        "name": "Leo \u00d8stig\u00e5rd",
+        "team": "Genoa CFC",
+        "birth": "28/11/1999",
+        "pos": "DF"
+    },
+    {
+        "name": " Pablo Mar\u00ed",
+        "team": "Udinese Calcio",
+        "birth": "31/08/1993",
+        "pos": "DF"
+    },
+    {
+        "name": "Daniele Padelli",
+        "team": "Udinese Calcio",
+        "birth": "25/10/1985",
+        "pos": "GK"
+    },
+    {
+        "name": "Mattia Pagliuca",
+        "team": "Bologna FC",
+        "birth": "25/04/2002",
+        "pos": "MF"
+    },
+    {
+        "name": "Luigi Palomba",
+        "team": "Cagliari Calcio",
+        "birth": "17/04/2003",
+        "pos": "DF"
+    },
+    {
+        "name": "Jos\u00e9 Palomino",
+        "team": "Atalanta",
+        "birth": "05/01/1990",
+        "pos": "DF"
+    },
+    {
+        "name": "Jakob P\u00e1lsson",
+        "team": "Venezia FC",
+        "birth": "07/01/2003",
+        "pos": "DF"
+    },
+    {
+        "name": "Simone Panada",
+        "team": "Atalanta",
+        "birth": "02/06/2002",
+        "pos": "MF"
+    },
+    {
+        "name": "Ivor Pandur",
+        "team": "Hellas Verona",
+        "birth": "25/03/2000",
+        "pos": "GK"
+    },
+    {
+        "name": "Fabiano Parisi",
+        "team": "Empoli FC",
+        "birth": "09/11/2000",
+        "pos": "DF"
+    },
+    {
+        "name": "Mario Pa\u0161ali\u0107",
+        "team": "Atalanta",
+        "birth": "09/02/1995",
+        "pos": "MF"
+    },
+    {
+        "name": " Patric",
+        "team": "Lazio Roma",
+        "birth": "17/04/1993",
+        "pos": "DF"
+    },
+    {
+        "name": "Leonardo Pavoletti",
+        "team": "Cagliari Calcio",
+        "birth": "26/11/1988",
+        "pos": "FW"
+    },
+    {
+        "name": "Yeferson Paz",
+        "team": "Sassuolo Calcio",
+        "birth": "13/06/2002",
+        "pos": "FW"
+    },
+    {
+        "name": "Damiano Pecile",
+        "team": "Venezia FC",
+        "birth": "11/04/2002",
+        "pos": "MF"
+    },
+    {
+        "name": " Pedro",
+        "team": "Lazio Roma",
+        "birth": "28/07/1987",
+        "pos": "FW"
+    },
+    {
+        "name": " Pedro Obiang",
+        "team": "Sassuolo Calcio",
+        "birth": "27/03/1992",
+        "pos": "MF"
+    },
+    {
+        "name": "Gianluca Pegolo",
+        "team": "Sassuolo Calcio",
+        "birth": "25/03/1981",
+        "pos": "GK"
+    },
+    {
+        "name": "Pietro Pellegri",
+        "team": "Torino FC",
+        "birth": "17/03/2001",
+        "pos": "FW"
+    },
+    {
+        "name": "Lorenzo Pellegrini",
+        "team": "AS Roma",
+        "birth": "19/06/1996",
+        "pos": "MF"
+    },
+    {
+        "name": "Luca Pellegrini",
+        "team": "Juventus",
+        "birth": "07/03/1999",
+        "pos": "DF"
+    },
+    {
+        "name": "Federico Peluso",
+        "team": "Sassuolo Calcio",
+        "birth": "20/01/1984",
+        "pos": "DF"
+    },
+    {
+        "name": " Pepe Reina",
+        "team": "Lazio Roma",
+        "birth": "31/08/1982",
+        "pos": "GK"
+    },
+    {
+        "name": "Gast\u00f3n Pereiro",
+        "team": "Cagliari Calcio",
+        "birth": "11/06/1995",
+        "pos": "MF"
+    },
+    {
+        "name": "Dor Peretz",
+        "team": "Venezia FC",
+        "birth": "17/05/1995",
+        "pos": "MF"
+    },
+    {
+        "name": "Roberto Pereyra",
+        "team": "Udinese Calcio",
+        "birth": "07/01/1991",
+        "pos": "MF"
+    },
+    {
+        "name": "Nehu\u00e9n P\u00e9rez",
+        "team": "Udinese Calcio",
+        "birth": "24/06/2000",
+        "pos": "DF"
+    },
+    {
+        "name": "Mattia Perin",
+        "team": "Juventus",
+        "birth": "10/11/1992",
+        "pos": "GK"
+    },
+    {
+        "name": "Ivan Peri\u0161i\u0107",
+        "team": "Inter",
+        "birth": "02/02/1989",
+        "pos": "MF"
+    },
+    {
+        "name": "Diego Perotti",
+        "team": "US Salernitana 1919",
+        "birth": "26/07/1988",
+        "pos": "MF"
+    },
+    {
+        "name": "Mario Perrone",
+        "team": "US Salernitana 1919",
+        "birth": "06/02/2003",
+        "pos": "DF"
+    },
+    {
+        "name": "Matteo Pessina",
+        "team": "Atalanta",
+        "birth": "21/04/1997",
+        "pos": "MF"
+    },
+    {
+        "name": "Andrea Petagna",
+        "team": "SSC Napoli",
+        "birth": "30/06/1995",
+        "pos": "FW"
+    },
+    {
+        "name": "Giuseppe Pezzella",
+        "team": "Atalanta",
+        "birth": "29/11/1997",
+        "pos": "DF"
+    },
+    {
+        "name": "Leonardo Pezzola",
+        "team": "Empoli FC",
+        "birth": "17/03/2002",
+        "pos": "DF"
+    },
+    {
+        "name": "Edoardo Piana",
+        "team": "Udinese Calcio",
+        "birth": "29/09/2003",
+        "pos": "GK"
+    },
+    {
+        "name": "Krzysztof Pi\u0105tek",
+        "team": "ACF Fiorentina",
+        "birth": "01/07/1995",
+        "pos": "FW"
+    },
+    {
+        "name": "Roberto Piccoli",
+        "team": "Genoa CFC",
+        "birth": "27/01/2001",
+        "pos": "FW"
+    },
+    {
+        "name": "Edoardo Pieragnolo",
+        "team": "Sassuolo Calcio",
+        "birth": "03/01/2003",
+        "pos": "DF"
+    },
+    {
+        "name": "Christian Pierobon",
+        "team": "Hellas Verona",
+        "birth": "26/03/2002",
+        "pos": "MF"
+    },
+    {
+        "name": "Niccol\u00f3 Pietra",
+        "team": "Spezia Calcio",
+        "birth": "28/09/2003",
+        "pos": "MF"
+    },
+    {
+        "name": "Andrea Pinamonti",
+        "team": "Empoli FC",
+        "birth": "19/05/1999",
+        "pos": "FW"
+    },
+    {
+        "name": "Carlo Pinsoglio",
+        "team": "Juventus",
+        "birth": "16/03/1990",
+        "pos": "GK"
+    },
+    {
+        "name": "Riccardo Pinzi",
+        "team": "Udinese Calcio",
+        "birth": "17/08/2003",
+        "pos": "MF"
+    },
+    {
+        "name": "Marko Pjaca",
+        "team": "Torino FC",
+        "birth": "06/05/1995",
+        "pos": "FW"
+    },
+    {
+        "name": "Tommaso Pobega",
+        "team": "Torino FC",
+        "birth": "15/07/1999",
+        "pos": "MF"
+    },
+    {
+        "name": "Suf Podgoreanu",
+        "team": "Spezia Calcio",
+        "birth": "20/01/2002",
+        "pos": "FW"
+    },
+    {
+        "name": "Matteo Politano",
+        "team": "SSC Napoli",
+        "birth": "03/08/1993",
+        "pos": "FW"
+    },
+    {
+        "name": "Manolo Portanova",
+        "team": "Genoa CFC",
+        "birth": "02/06/2000",
+        "pos": "MF"
+    },
+    {
+        "name": "Dennis Praet",
+        "team": "Torino FC",
+        "birth": "14/05/1994",
+        "pos": "MF"
+    },
+    {
+        "name": "Mateusz Praszelik",
+        "team": "Hellas Verona",
+        "birth": "26/09/2000",
+        "pos": "MF"
+    },
+    {
+        "name": "Ivan Provedel",
+        "team": "Spezia Calcio",
+        "birth": "17/03/1994",
+        "pos": "GK"
+    },
+    {
+        "name": "Ignacio Pussetto",
+        "team": "Udinese Calcio",
+        "birth": "21/12/1995",
+        "pos": "FW"
+    },
+    {
+        "name": "Niklas Pyyhti\u00e4",
+        "team": "Bologna FC",
+        "birth": "25/09/2003",
+        "pos": "MF"
+    },
+    {
+        "name": "Fabio Quagliarella",
+        "team": "Sampdoria",
+        "birth": "31/01/1983",
+        "pos": "FW"
+    },
+    {
+        "name": "Adrien Rabiot",
+        "team": "Juventus",
+        "birth": "03/04/1995",
+        "pos": "MF"
+    },
+    {
+        "name": "Ivan Radovanovi\u0107",
+        "team": "US Salernitana 1919",
+        "birth": "29/08/1988",
+        "pos": "MF"
+    },
+    {
+        "name": "Ionu\u021b Radu",
+        "team": "Inter",
+        "birth": "28/05/1997",
+        "pos": "GK"
+    },
+    {
+        "name": "Stefan Radu",
+        "team": "Lazio Roma",
+        "birth": "22/10/1986",
+        "pos": "DF"
+    },
+    {
+        "name": "Boris Radunovi\u0107",
+        "team": "Cagliari Calcio",
+        "birth": "26/05/1996",
+        "pos": "GK"
+    },
+    {
+        "name": " Rafael Le\u00e3o",
+        "team": "AC Milan",
+        "birth": "10/06/1999",
+        "pos": "FW"
+    },
+    {
+        "name": "Antonio Raimondo",
+        "team": "Bologna FC",
+        "birth": "18/03/2004",
+        "pos": "FW"
+    },
+    {
+        "name": "Marco Raina",
+        "team": "Juventus",
+        "birth": "25/05/2002",
+        "pos": "GK"
+    },
+    {
+        "name": "Luca Ranieri",
+        "team": "US Salernitana 1919",
+        "birth": "23/04/1999",
+        "pos": "DF"
+    },
+    {
+        "name": "Andrea Ranocchia",
+        "team": "Inter",
+        "birth": "16/02/1988",
+        "pos": "DF"
+    },
+    {
+        "name": "Giacomo Raspadori",
+        "team": "Sassuolo Calcio",
+        "birth": "18/02/2000",
+        "pos": "FW"
+    },
+    {
+        "name": " Ra\u00fal Moro",
+        "team": "Lazio Roma",
+        "birth": "05/12/2002",
+        "pos": "FW"
+    },
+    {
+        "name": "Nicola Ravaglia",
+        "team": "Sampdoria",
+        "birth": "12/12/1988",
+        "pos": "GK"
+    },
+    {
+        "name": "Ante Rebi\u0107",
+        "team": "AC Milan",
+        "birth": "21/09/1993",
+        "pos": "FW"
+    },
+    {
+        "name": "Arkadiusz Reca",
+        "team": "Spezia Calcio",
+        "birth": "17/06/1995",
+        "pos": "DF"
+    },
+    {
+        "name": "Guillaume Renault",
+        "team": "Atalanta",
+        "birth": "17/03/2002",
+        "pos": "MF"
+    },
+    {
+        "name": "Panagiotis Retsos",
+        "team": "Hellas Verona",
+        "birth": "09/08/1998",
+        "pos": "DF"
+    },
+    {
+        "name": "Franck Rib\u00e9ry",
+        "team": "US Salernitana 1919",
+        "birth": "07/04/1983",
+        "pos": "FW"
+    },
+    {
+        "name": "Alessio Riccardi",
+        "team": "AS Roma",
+        "birth": "03/04/2001",
+        "pos": "MF"
+    },
+    {
+        "name": "Samuele Ricci",
+        "team": "Torino FC",
+        "birth": "21/08/2001",
+        "pos": "MF"
+    },
+    {
+        "name": "Tom\u00e1s Rinc\u00f3n",
+        "team": "Sampdoria",
+        "birth": "13/01/1988",
+        "pos": "MF"
+    },
+    {
+        "name": "Alessio Rizza",
+        "team": "Empoli FC",
+        "birth": "07/03/2003",
+        "pos": "DF"
+    },
+    {
+        "name": "Emil Roback",
+        "team": "AC Milan",
+        "birth": "03/05/2003",
+        "pos": "FW"
+    },
+    {
+        "name": " Rodrigo Bec\u00e3o",
+        "team": "Udinese Calcio",
+        "birth": "19/01/1996",
+        "pos": "DF"
+    },
+    {
+        "name": "Ricardo Rodr\u00edguez",
+        "team": "Torino FC",
+        "birth": "25/08/1992",
+        "pos": "DF"
+    },
+    {
+        "name": "Marko Rog",
+        "team": "Cagliari Calcio",
+        "birth": "19/07/1995",
+        "pos": "MF"
+    },
+    {
+        "name": " Rog\u00e9rio",
+        "team": "Sassuolo Calcio",
+        "birth": "13/01/1998",
+        "pos": "DF"
+    },
+    {
+        "name": "Luis Rojas",
+        "team": "Bologna FC",
+        "birth": "06/03/2002",
+        "pos": "MF"
+    },
+    {
+        "name": "Filippo Romagna",
+        "team": "Sassuolo Calcio",
+        "birth": "26/05/1997",
+        "pos": "DF"
+    },
+    {
+        "name": "Alessio Romagnoli",
+        "team": "AC Milan",
+        "birth": "12/01/1995",
+        "pos": "DF"
+    },
+    {
+        "name": "Simone Romagnoli",
+        "team": "Empoli FC",
+        "birth": "09/02/1990",
+        "pos": "DF"
+    },
+    {
+        "name": "Luka Romero",
+        "team": "Lazio Roma",
+        "birth": "18/11/2004",
+        "pos": "MF"
+    },
+    {
+        "name": "Sergio Romero",
+        "team": "Venezia FC",
+        "birth": "22/02/1987",
+        "pos": "GK"
+    },
+    {
+        "name": "Antonio Rosati",
+        "team": "ACF Fiorentina",
+        "birth": "26/03/1983",
+        "pos": "GK"
+    },
+    {
+        "name": "Francesco Rossi",
+        "team": "Atalanta",
+        "birth": "27/04/1991",
+        "pos": "GK"
+    },
+    {
+        "name": "Nicol\u00f2 Rovella",
+        "team": "Genoa CFC",
+        "birth": "04/12/2001",
+        "pos": "MF"
+    },
+    {
+        "name": "William Rovida",
+        "team": "Inter",
+        "birth": "14/03/2003",
+        "pos": "GK"
+    },
+    {
+        "name": "Amir Rrahmani",
+        "team": "SSC Napoli",
+        "birth": "24/02/1994",
+        "pos": "DF"
+    },
+    {
+        "name": " Ruan",
+        "team": "Sassuolo Calcio",
+        "birth": "07/06/1999",
+        "pos": "DF"
+    },
+    {
+        "name": "Daniele Rugani",
+        "team": "Juventus",
+        "birth": "29/07/1994",
+        "pos": "DF"
+    },
+    {
+        "name": "Matteo Ruggeri",
+        "team": "US Salernitana 1919",
+        "birth": "11/07/2002",
+        "pos": "DF"
+    },
+    {
+        "name": " Rui Patr\u00edcio",
+        "team": "AS Roma",
+        "birth": "15/02/1988",
+        "pos": "GK"
+    },
+    {
+        "name": "Alessandro Russo",
+        "team": "US Salernitana 1919",
+        "birth": "06/09/2003",
+        "pos": "MF"
+    },
+    {
+        "name": "Antonio Russo",
+        "team": "US Salernitana 1919",
+        "birth": "01/02/2000",
+        "pos": "GK"
+    },
+    {
+        "name": "Abdelhamid Sabiri",
+        "team": "Sampdoria",
+        "birth": "28/11/1996",
+        "pos": "MF"
+    },
+    {
+        "name": "Alexis Saelemaekers",
+        "team": "AC Milan",
+        "birth": "27/06/1999",
+        "pos": "FW"
+    },
+    {
+        "name": "Ivan Saio",
+        "team": "Sampdoria",
+        "birth": "16/03/2002",
+        "pos": "GK"
+    },
+    {
+        "name": "Jacopo Sala",
+        "team": "Spezia Calcio",
+        "birth": "05/12/1991",
+        "pos": "DF"
+    },
+    {
+        "name": "Eddie Salcedo",
+        "team": "Spezia Calcio",
+        "birth": "01/10/2001",
+        "pos": "FW"
+    },
+    {
+        "name": " Salva Ferrer",
+        "team": "Spezia Calcio",
+        "birth": "21/01/1998",
+        "pos": "DF"
+    },
+    {
+        "name": "Lazar Samard\u017ei\u0107",
+        "team": "Udinese Calcio",
+        "birth": "24/02/2002",
+        "pos": "MF"
+    },
+    {
+        "name": "Luigi Samele",
+        "team": "Sassuolo Calcio",
+        "birth": "09/04/2002",
+        "pos": "FW"
+    },
+    {
+        "name": " Samu Castillejo",
+        "team": "AC Milan",
+        "birth": "18/01/1995",
+        "pos": "FW"
+    },
+    {
+        "name": "Antonio Sanabria",
+        "team": "Torino FC",
+        "birth": "04/03/1996",
+        "pos": "FW"
+    },
+    {
+        "name": "Alexis S\u00e1nchez",
+        "team": "Inter",
+        "birth": "19/12/1988",
+        "pos": "FW"
+    },
+    {
+        "name": "Mattia Sangalli",
+        "team": "Inter",
+        "birth": "27/02/2002",
+        "pos": "MF"
+    },
+    {
+        "name": "Nicola Sansone",
+        "team": "Bologna FC",
+        "birth": "10/09/1991",
+        "pos": "FW"
+    },
+    {
+        "name": "Federico Santander",
+        "team": "Bologna FC",
+        "birth": "04/06/1991",
+        "pos": "FW"
+    },
+    {
+        "name": "Davide Santon",
+        "team": "AS Roma",
+        "birth": "02/01/1991",
+        "pos": "DF"
+    },
+    {
+        "name": "Antonio Santurro",
+        "team": "Udinese Calcio",
+        "birth": "29/02/1992",
+        "pos": "GK"
+    },
+    {
+        "name": "Riccardo Saponara",
+        "team": "ACF Fiorentina",
+        "birth": "21/12/1991",
+        "pos": "MF"
+    },
+    {
+        "name": "Giacomo Satalino",
+        "team": "Sassuolo Calcio",
+        "birth": "20/05/1999",
+        "pos": "GK"
+    },
+    {
+        "name": "Giorgio Scalvini",
+        "team": "Atalanta",
+        "birth": "11/12/2003",
+        "pos": "DF"
+    },
+    {
+        "name": "Gianluca Scamacca",
+        "team": "Sassuolo Calcio",
+        "birth": "01/01/1999",
+        "pos": "FW"
+    },
+    {
+        "name": "Nicol\u00e1s Schiappacasse",
+        "team": "Sassuolo Calcio",
+        "birth": "12/01/1999",
+        "pos": "FW"
+    },
+    {
+        "name": "Andrea Schiavone",
+        "team": "US Salernitana 1919",
+        "birth": "23/02/1993",
+        "pos": "MF"
+    },
+    {
+        "name": "Jerdy Schouten",
+        "team": "Bologna FC",
+        "birth": "12/01/1997",
+        "pos": "MF"
+    },
+    {
+        "name": "Filippo Scieuzo",
+        "team": "Spezia Calcio",
+        "birth": "15/07/2003",
+        "pos": "DF"
+    },
+    {
+        "name": "Demba Seck",
+        "team": "Torino FC",
+        "birth": "10/02/2001",
+        "pos": "FW"
+    },
+    {
+        "name": "Adrian \u0160emper",
+        "team": "Genoa CFC",
+        "birth": "12/01/1998",
+        "pos": "GK"
+    },
+    {
+        "name": "Zsombor Senk\u00f3",
+        "team": "Juventus",
+        "birth": "04/01/2003",
+        "pos": "GK"
+    },
+    {
+        "name": "Stefano Sensi",
+        "team": "Sampdoria",
+        "birth": "05/08/1995",
+        "pos": "MF"
+    },
+    {
+        "name": "Luigi Sepe",
+        "team": "US Salernitana 1919",
+        "birth": "08/05/1991",
+        "pos": "GK"
+    },
+    {
+        "name": " S\u00e9rgio Oliveira",
+        "team": "AS Roma",
+        "birth": "02/06/1992",
+        "pos": "MF"
+    },
+    {
+        "name": "Aimar Sher",
+        "team": "Spezia Calcio",
+        "birth": "20/12/2002",
+        "pos": "MF"
+    },
+    {
+        "name": "Eldor Shomurodov",
+        "team": "AS Roma",
+        "birth": "29/06/1995",
+        "pos": "FW"
+    },
+    {
+        "name": "Alassane Sidibe",
+        "team": "Atalanta",
+        "birth": "09/06/2002",
+        "pos": "FW"
+    },
+    {
+        "name": "Arn\u00f3r Sigur\u00f0sson",
+        "team": "Venezia FC",
+        "birth": "15/05/1999",
+        "pos": "MF"
+    },
+    {
+        "name": "Marco Silvestri",
+        "team": "Udinese Calcio",
+        "birth": "02/03/1991",
+        "pos": "GK"
+    },
+    {
+        "name": "Giovanni Simeone",
+        "team": "Hellas Verona",
+        "birth": "05/07/1995",
+        "pos": "FW"
+    },
+    {
+        "name": "Wilfried Singo",
+        "team": "Torino FC",
+        "birth": "25/12/2000",
+        "pos": "DF"
+    },
+    {
+        "name": "Salvatore Sirigu",
+        "team": "Genoa CFC",
+        "birth": "12/01/1987",
+        "pos": "GK"
+    },
+    {
+        "name": "\u0141ukasz Skorupski",
+        "team": "Bologna FC",
+        "birth": "05/05/1991",
+        "pos": "GK"
+    },
+    {
+        "name": "Milan \u0160kriniar",
+        "team": "Inter",
+        "birth": "11/02/1995",
+        "pos": "DF"
+    },
+    {
+        "name": "Chris Smalling",
+        "team": "AS Roma",
+        "birth": "22/11/1989",
+        "pos": "DF"
+    },
+    {
+        "name": "Marco Somma",
+        "team": "Sampdoria",
+        "birth": "07/02/2002",
+        "pos": "MF"
+    },
+    {
+        "name": "Brandon Soppy",
+        "team": "Udinese Calcio",
+        "birth": "21/02/2002",
+        "pos": "DF"
+    },
+    {
+        "name": "Roberto Soriano",
+        "team": "Bologna FC",
+        "birth": "08/02/1991",
+        "pos": "MF"
+    },
+    {
+        "name": "Riccardo Sottil",
+        "team": "ACF Fiorentina",
+        "birth": "03/06/1999",
+        "pos": "FW"
+    },
+    {
+        "name": "Mat\u00edas Soul\u00e9",
+        "team": "Juventus",
+        "birth": "15/04/2003",
+        "pos": "FW"
+    },
+    {
+        "name": "Adama Soumaoro",
+        "team": "Bologna FC",
+        "birth": "18/06/1992",
+        "pos": "DF"
+    },
+    {
+        "name": "Leonardo Spinazzola",
+        "team": "AS Roma",
+        "birth": "25/03/1993",
+        "pos": "DF"
+    },
+    {
+        "name": "Marco Sportiello",
+        "team": "Atalanta",
+        "birth": "10/05/1992",
+        "pos": "GK"
+    },
+    {
+        "name": "Luca Stanga",
+        "team": "AC Milan",
+        "birth": "23/01/2002",
+        "pos": "DF"
+    },
+    {
+        "name": "Riccardo Stivanello",
+        "team": "Bologna FC",
+        "birth": "24/04/2004",
+        "pos": "DF"
+    },
+    {
+        "name": "Petar Stojanovi\u0107",
+        "team": "Empoli FC",
+        "birth": "07/10/1995",
+        "pos": "DF"
+    },
+    {
+        "name": "Thomas Strakosha",
+        "team": "Lazio Roma",
+        "birth": "19/03/1995",
+        "pos": "GK"
+    },
+    {
+        "name": "Diego Stramaccioni",
+        "team": "Juventus",
+        "birth": "02/01/2001",
+        "pos": "DF"
+    },
+    {
+        "name": "Stefan Strandberg",
+        "team": "US Salernitana 1919",
+        "birth": "25/07/1990",
+        "pos": "DF"
+    },
+    {
+        "name": "D\u00e1vid Strelec",
+        "team": "Spezia Calcio",
+        "birth": "04/04/2001",
+        "pos": "FW"
+    },
+    {
+        "name": "Kevin Strootman",
+        "team": "Cagliari Calcio",
+        "birth": "13/02/1990",
+        "pos": "MF"
+    },
+    {
+        "name": "Jens Stryger Larsen",
+        "team": "Udinese Calcio",
+        "birth": "21/02/1991",
+        "pos": "DF"
+    },
+    {
+        "name": "Leo \u0160tulac",
+        "team": "Empoli FC",
+        "birth": "26/09/1994",
+        "pos": "MF"
+    },
+    {
+        "name": "Stefano Sturaro",
+        "team": "Genoa CFC",
+        "birth": "09/03/1993",
+        "pos": "MF"
+    },
+    {
+        "name": "Isaac Success",
+        "team": "Udinese Calcio",
+        "birth": "07/01/1996",
+        "pos": "FW"
+    },
+    {
+        "name": "Vladyslav Supryaga",
+        "team": "Sampdoria",
+        "birth": "15/02/2000",
+        "pos": "FW"
+    },
+    {
+        "name": "Bo\u0161ko \u0160utalo",
+        "team": "Hellas Verona",
+        "birth": "01/01/2000",
+        "pos": "DF"
+    },
+    {
+        "name": "Mattias Svanberg",
+        "team": "Bologna FC",
+        "birth": "05/01/1999",
+        "pos": "MF"
+    },
+    {
+        "name": "Michael Svoboda",
+        "team": "Venezia FC",
+        "birth": "15/10/1998",
+        "pos": "DF"
+    },
+    {
+        "name": "Wojciech Szcz\u0119sny",
+        "team": "Juventus",
+        "birth": "18/04/1990",
+        "pos": "GK"
+    },
+    {
+        "name": "Adrien Tameze",
+        "team": "Hellas Verona",
+        "birth": "04/02/1994",
+        "pos": "MF"
+    },
+    {
+        "name": "Ciprian T\u0103t\u0103ru\u015fanu",
+        "team": "AC Milan",
+        "birth": "09/02/1986",
+        "pos": "GK"
+    },
+    {
+        "name": "Filippo Terracciano",
+        "team": "Hellas Verona",
+        "birth": "08/02/2003",
+        "pos": "MF"
+    },
+    {
+        "name": "Pietro Terracciano",
+        "team": "ACF Fiorentina",
+        "birth": "08/03/1990",
+        "pos": "GK"
+    },
+    {
+        "name": "Aleksa Terzi\u0107",
+        "team": "ACF Fiorentina",
+        "birth": "17/08/1999",
+        "pos": "DF"
+    },
+    {
+        "name": "Tanner Tessmann",
+        "team": "Venezia FC",
+        "birth": "24/09/2001",
+        "pos": "MF"
+    },
+    {
+        "name": "Arthur Theate",
+        "team": "Bologna FC",
+        "birth": "25/05/2000",
+        "pos": "DF"
+    },
+    {
+        "name": "Morten Thorsby",
+        "team": "Sampdoria",
+        "birth": "05/05/1996",
+        "pos": "MF"
+    },
+    {
+        "name": "Eljon To\u00e7i",
+        "team": "ACF Fiorentina",
+        "birth": "09/01/2003",
+        "pos": "FW"
+    },
+    {
+        "name": "Jeremy Toljan",
+        "team": "Sassuolo Calcio",
+        "birth": "08/08/1994",
+        "pos": "DF"
+    },
+    {
+        "name": "Rafael Tol\u00f3i",
+        "team": "Atalanta",
+        "birth": "10/10/1990",
+        "pos": "DF"
+    },
+    {
+        "name": "Fikayo Tomori",
+        "team": "AC Milan",
+        "birth": "19/12/1997",
+        "pos": "DF"
+    },
+    {
+        "name": "Sandro Tonali",
+        "team": "AC Milan",
+        "birth": "08/05/2000",
+        "pos": "MF"
+    },
+    {
+        "name": "Lorenzo Tonelli",
+        "team": "Empoli FC",
+        "birth": "17/01/1990",
+        "pos": "DF"
+    },
+    {
+        "name": "Giacomo Toniolo",
+        "team": "Hellas Verona",
+        "birth": "01/04/2004",
+        "pos": "GK"
+    },
+    {
+        "name": "Lucas Torreira",
+        "team": "ACF Fiorentina",
+        "birth": "11/02/1996",
+        "pos": "MF"
+    },
+    {
+        "name": "Lisandru Tramoni",
+        "team": "Cagliari Calcio",
+        "birth": "18/04/2003",
+        "pos": "MF"
+    },
+    {
+        "name": "Hamed Traor\u00e8",
+        "team": "Sassuolo Calcio",
+        "birth": "16/02/2000",
+        "pos": "MF"
+    },
+    {
+        "name": "Simone Trimboli",
+        "team": "Sampdoria",
+        "birth": "19/04/2002",
+        "pos": "MF"
+    },
+    {
+        "name": "Filippo Tripi",
+        "team": "AS Roma",
+        "birth": "06/01/2002",
+        "pos": "MF"
+    },
+    {
+        "name": "Axel Tuanzebe",
+        "team": "SSC Napoli",
+        "birth": "14/11/1997",
+        "pos": "DF"
+    },
+    {
+        "name": "Mattia Turra",
+        "team": "Hellas Verona",
+        "birth": "29/08/2002",
+        "pos": "MF"
+    },
+    {
+        "name": "Destiny Udogie",
+        "team": "Udinese Calcio",
+        "birth": "28/11/2002",
+        "pos": "DF"
+    },
+    {
+        "name": "Samir Ujkani",
+        "team": "Empoli FC",
+        "birth": "05/07/1988",
+        "pos": "GK"
+    },
+    {
+        "name": "Maximilian Ullmann",
+        "team": "Venezia FC",
+        "birth": "17/06/1996",
+        "pos": "DF"
+    },
+    {
+        "name": "Kacper Urba\u0144ski",
+        "team": "Bologna FC",
+        "birth": "07/09/2004",
+        "pos": "MF"
+    },
+    {
+        "name": "Antonio Vacca",
+        "team": "Venezia FC",
+        "birth": "13/05/1990",
+        "pos": "MF"
+    },
+    {
+        "name": "Zinho Vanheusden",
+        "team": "Genoa CFC",
+        "birth": "29/07/1999",
+        "pos": "DF"
+    },
+    {
+        "name": "Johan V\u00e1squez",
+        "team": "Genoa CFC",
+        "birth": "22/10/1998",
+        "pos": "DF"
+    },
+    {
+        "name": "Mat\u00edas Vecino",
+        "team": "Inter",
+        "birth": "24/08/1991",
+        "pos": "MF"
+    },
+    {
+        "name": "Lorenzo Venuti",
+        "team": "ACF Fiorentina",
+        "birth": "12/04/1995",
+        "pos": "DF"
+    },
+    {
+        "name": "Daniele Verde",
+        "team": "Spezia Calcio",
+        "birth": "20/06/1996",
+        "pos": "FW"
+    },
+    {
+        "name": "Simone Verdi",
+        "team": "US Salernitana 1919",
+        "birth": "12/07/1992",
+        "pos": "MF"
+    },
+    {
+        "name": "Jordan Veretout",
+        "team": "AS Roma",
+        "birth": "01/03/1993",
+        "pos": "MF"
+    },
+    {
+        "name": "Edoardo Vergani",
+        "team": "US Salernitana 1919",
+        "birth": "06/02/2001",
+        "pos": "FW"
+    },
+    {
+        "name": "Antonio Vergara",
+        "team": "SSC Napoli",
+        "birth": "16/01/2003",
+        "pos": "MF"
+    },
+    {
+        "name": "Valerio Verre",
+        "team": "Empoli FC",
+        "birth": "11/01/1994",
+        "pos": "MF"
+    },
+    {
+        "name": "Freddie Veseli",
+        "team": "US Salernitana 1919",
+        "birth": "20/11/1992",
+        "pos": "DF"
+    },
+    {
+        "name": "Guglielmo Vicario",
+        "team": "Empoli FC",
+        "birth": "07/10/1996",
+        "pos": "GK"
+    },
+    {
+        "name": "Arturo Vidal",
+        "team": "Inter",
+        "birth": "22/05/1987",
+        "pos": "MF"
+    },
+    {
+        "name": "Ronaldo Vieira",
+        "team": "Sampdoria",
+        "birth": "19/07/1998",
+        "pos": "MF"
+    },
+    {
+        "name": "Emanuel Vignato",
+        "team": "Bologna FC",
+        "birth": "24/08/2000",
+        "pos": "FW"
+    },
+    {
+        "name": "Mat\u00edas Vi\u00f1a",
+        "team": "AS Roma",
+        "birth": "09/11/1997",
+        "pos": "DF"
+    },
+    {
+        "name": "Nicolas Viola",
+        "team": "Bologna FC",
+        "birth": "12/10/1989",
+        "pos": "MF"
+    },
+    {
+        "name": "Samuele Vitale",
+        "team": "Sassuolo Calcio",
+        "birth": "20/08/2002",
+        "pos": "GK"
+    },
+    {
+        "name": "Mattia Viti",
+        "team": "Empoli FC",
+        "birth": "24/01/2002",
+        "pos": "DF"
+    },
+    {
+        "name": "Du\u0161an Vlahovi\u0107",
+        "team": "Juventus",
+        "birth": "28/01/2000",
+        "pos": "FW"
+    },
+    {
+        "name": "Rok Vodi\u0161ek",
+        "team": "Genoa CFC",
+        "birth": "05/12/1998",
+        "pos": "GK"
+    },
+    {
+        "name": "Joel Voelkerling Persson",
+        "team": "AS Roma",
+        "birth": "15/01/2003",
+        "pos": "FW"
+    },
+    {
+        "name": "M\u00ebrgim Vojvoda",
+        "team": "Torino FC",
+        "birth": "01/02/1995",
+        "pos": "DF"
+    },
+    {
+        "name": "Cristian Volpato",
+        "team": "AS Roma",
+        "birth": "15/11/2003",
+        "pos": "MF"
+    },
+    {
+        "name": " Walace",
+        "team": "Udinese Calcio",
+        "birth": "04/04/1995",
+        "pos": "MF"
+    },
+    {
+        "name": "Sebastian Walukiewicz",
+        "team": "Cagliari Calcio",
+        "birth": "05/04/2000",
+        "pos": "DF"
+    },
+    {
+        "name": "Magnus Warming",
+        "team": "Torino FC",
+        "birth": "08/06/2000",
+        "pos": "FW"
+    },
+    {
+        "name": "Kelvin Yeboah",
+        "team": "Genoa CFC",
+        "birth": "06/05/2000",
+        "pos": "FW"
+    },
+    {
+        "name": "Gerard Yepes",
+        "team": "Sampdoria",
+        "birth": "25/08/2002",
+        "pos": "MF"
+    },
+    {
+        "name": "Maya Yoshida",
+        "team": "Sampdoria",
+        "birth": "24/08/1988",
+        "pos": "DF"
+    },
+    {
+        "name": "Mattia Zaccagni",
+        "team": "Lazio Roma",
+        "birth": "16/06/1995",
+        "pos": "MF"
+    },
+    {
+        "name": "Gioele Zacchi",
+        "team": "Sassuolo Calcio",
+        "birth": "10/07/2003",
+        "pos": "GK"
+    },
+    {
+        "name": "Denis Zakaria",
+        "team": "Juventus",
+        "birth": "20/11/1996",
+        "pos": "MF"
+    },
+    {
+        "name": "Nicola Zalewski",
+        "team": "AS Roma",
+        "birth": "23/01/2002",
+        "pos": "MF"
+    },
+    {
+        "name": "Nicol\u00f2 Zaniolo",
+        "team": "AS Roma",
+        "birth": "02/07/1999",
+        "pos": "FW"
+    },
+    {
+        "name": "Alessandro Zanoli",
+        "team": "SSC Napoli",
+        "birth": "03/10/2000",
+        "pos": "DF"
+    },
+    {
+        "name": "Mattia Zanotti",
+        "team": "Inter",
+        "birth": "11/01/2003",
+        "pos": "DF"
+    },
+    {
+        "name": "Duv\u00e1n Zapata",
+        "team": "Atalanta",
+        "birth": "01/04/1991",
+        "pos": "FW"
+    },
+    {
+        "name": "Gabriele Zappa",
+        "team": "Cagliari Calcio",
+        "birth": "22/12/1999",
+        "pos": "DF"
+    },
+    {
+        "name": "Davide Zappacosta",
+        "team": "Atalanta",
+        "birth": "11/06/1992",
+        "pos": "DF"
+    },
+    {
+        "name": "Simone Zaza",
+        "team": "Torino FC",
+        "birth": "25/06/1991",
+        "pos": "FW"
+    },
+    {
+        "name": "Marvin Zeegelaar",
+        "team": "Udinese Calcio",
+        "birth": "12/08/1990",
+        "pos": "DF"
+    },
+    {
+        "name": "Piotr Zieli\u0144ski",
+        "team": "SSC Napoli",
+        "birth": "20/05/1994",
+        "pos": "MF"
+    },
+    {
+        "name": "David Zima",
+        "team": "Torino FC",
+        "birth": "08/11/2000",
+        "pos": "DF"
+    },
+    {
+        "name": "Jeroen Zoet",
+        "team": "Spezia Calcio",
+        "birth": "06/01/1991",
+        "pos": "GK"
+    },
+    {
+        "name": "Nadir Zortea",
+        "team": "US Salernitana 1919",
+        "birth": "19/06/1999",
+        "pos": "MF"
+    },
+    {
+        "name": "Petar Zovko",
+        "team": "Spezia Calcio",
+        "birth": "25/03/2002",
+        "pos": "GK"
+    },
+    {
+        "name": "Federico Zuccon",
+        "team": "Atalanta",
+        "birth": "01/04/2003",
+        "pos": "MF"
+    },
+    {
+        "name": "Diego Zuppel",
+        "team": "Spezia Calcio",
+        "birth": "13/10/2002",
+        "pos": "FW"
+    }
+]
