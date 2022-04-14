@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import serieA from './data&scraping/serieA.json'
+import playersSerieA from './data&scraping/serieA.json'
+import SearchBar from './components/SearchBar';
 
 function App() {
   return (
     <div className="App">
-      {serieA[20].name}
+      <SearchBar players={playersSerieA}/>
     </div>
   );
 }
