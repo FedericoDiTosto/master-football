@@ -1,9 +1,14 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import "../styles/SearchBar.css"
 
-function SearchBar({players, setSelectedPlayer}) {
+function SearchBar({players, setSelectedPlayer, selectedPlayer, selectedPlayerList, setSelectedPlayerList}) {
   const [filteredPlayer, setfilteredPlayer] = useState([]);
   const [playerEntered, setplayerEntered] = useState("");
+
+  useEffect(() => {
+    setSelectedPlayerList(currentArray => [...currentArray, selectedPlayer])
+    // action on update of movies
+}, [selectedPlayer]);
 
   const handleFilter = (event) => {
     const searchPlayer = event.target.value;
@@ -19,12 +24,6 @@ function SearchBar({players, setSelectedPlayer}) {
     }
   };
 
- function submiitSelected(value) {
-    setfilteredPlayer([]);
-    setplayerEntered("");
-    setSelectedPlayer(value)
-  } 
-
   return (
     <div className="search">
       <div className="searchInputs">
@@ -38,7 +37,7 @@ function SearchBar({players, setSelectedPlayer}) {
         <div className="dataResult">
           {filteredPlayer.slice(0, 10).map((value, key) => {
             return (
-              <div className="boxPlayer" onClick={() => {setSelectedPlayer(value); setfilteredPlayer([]); setplayerEntered("");}}>
+              <div className="boxPlayer" onClick={() => {setSelectedPlayer(value); setfilteredPlayer([]); setplayerEntered(""); }}>
                 <p>{value.name}</p>
               </div>
             );

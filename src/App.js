@@ -8,17 +8,17 @@ import { useState } from 'react';
 function App() {
   const [randomPlayerIndex, setRandomPlayerIndex] = useState(Math.floor(Math.random()*playersSerieA.length))
   const [selectedPlayer, setSelectedPlayer] = useState({})
+  const [selectedPlayerList, setSelectedPlayerList] = useState([])
   var randomPlayer = playersSerieA[randomPlayerIndex];
 
-  const checkAnswer = () => {
-    
-  }
   return (
     <div className="App">
-      <SearchBar players={playersSerieA} randomPlayer={randomPlayer} setSelectedPlayer={setSelectedPlayer}/>
-      {/* <button onClick={() => setRandomPlayerIndex(Math.floor(Math.random()*playersSerieA.length))}>start</button> */}
+      <SearchBar players={playersSerieA} randomPlayer={randomPlayer} setSelectedPlayer={setSelectedPlayer} 
+                  selectedPlayer={selectedPlayer} selectedPlayerList={selectedPlayerList} setSelectedPlayerList={setSelectedPlayerList}/>
       <h4>{randomPlayer.name}</h4>
-      <h5>{selectedPlayer.name}</h5>
+      {selectedPlayerList.map((item) => (
+        <h5>{item.name}</h5>
+      ))}
     </div>
   );
 }

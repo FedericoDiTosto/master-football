@@ -39,6 +39,7 @@ input:focus {
 
 .boxPlayer:hover {
     background-color: rgb(219, 219, 219);
+    cursor: pointer;
 }
 
 .boxPlayer p {
