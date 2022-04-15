@@ -28,22 +28,21 @@ function App() {
     <div className="App">
       <SearchBar players={playersSerieA} randomPlayer={randomPlayer} setSelectedPlayer={setSelectedPlayer} selectedPlayer={selectedPlayer}
                 selectedPlayerList={selectedPlayerList} setSelectedPlayerList={setSelectedPlayerList} win={win} setWin={setWin}/>
-      <h4>{randomPlayer.name}</h4>
       {selectedPlayerList.map((item, key) => (
+        <>
+        <p className='player-name'>{item.name}</p>
         <div key={key} className="answer-box">
           <div className={randomPlayer.team === item.team ? "answer-team-correct" : "answer-team"}>
             {item.team}
           </div>
-          <div>
-          <h5>{item.name}</h5>
-          </div>
-          <div style={randomPlayer.pos === item.pos ? {backgroundColor:"green"} : {backgroundColor:"none"}}>
+          <div className={randomPlayer.pos === item.pos ? "answer-pos-correct" : "answer-pos"}>
             {item.pos}
           </div>
-          <div style={randomPlayer.birth === item.birth ? {backgroundColor:"green"} : {backgroundColor:"none"}}>
+          <div className={randomPlayer.birth === item.birth ? "answer-pos-correct" : "answer-pos"}>
             {calcPlayerAge(item.birth)}
           </div>
         </div>
+        </>
       ))}
     </div>
     
