@@ -8,3 +8,23 @@ body {
   height: 40vmin;
   pointer-events: none;
 }
+
+.answer-box {
+  width: 50%;
+  display: flex;
+  margin: auto;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.answer-team {
+  font-size: 20px;
+  background-color: none;
+  color: #333;
+}
+
+.answer-team-correct {
+  font-size: 20px;
+  background-color: darkgreen;
+  color: white;
+}

@@ -20,7 +20,7 @@ input:focus {
 .dataResult {
     margin-top: 20px;
     width: 300px;
-    height: fit-content;
+    height: 350px;
     background-color: white;
     overflow: hidden;
     overflow-y: auto;
@@ -28,9 +28,7 @@ input:focus {
     margin: auto;
 }
 
-.dataResult::-webkit-scrollbar {
-    display: none;
-}
+.dataResult::-webkit-scrollbar {}
 
 .boxPlayer {
     height: 50px;

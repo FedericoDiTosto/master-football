@@ -1,3 +1,3 @@
-#Master Football
+# Master Football
 
-The Mastermind game for the soccer world
+The Wordle game for the soccer world

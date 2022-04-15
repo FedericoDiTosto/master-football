@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "../styles/SearchBar.css"
 
-function SearchBar({players, setSelectedPlayer, selectedPlayer, selectedPlayerList, setSelectedPlayerList}) {
+function SearchBar({players, setSelectedPlayer, selectedPlayer, selectedPlayerList, setSelectedPlayerList, win, setWin}) {
   const [filteredPlayer, setfilteredPlayer] = useState([]);
   const [playerEntered, setplayerEntered] = useState("");
 
@@ -14,7 +14,7 @@ function SearchBar({players, setSelectedPlayer, selectedPlayer, selectedPlayerLi
     const searchPlayer = event.target.value;
     setplayerEntered(searchPlayer);
     const newFilter = players.filter((value) => {
-      return value.name.toLowerCase().includes(searchPlayer.toLowerCase());
+      return value.name.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").includes(searchPlayer.toLowerCase());
     });
 
     if (searchPlayer === "") {
@@ -35,9 +35,9 @@ function SearchBar({players, setSelectedPlayer, selectedPlayer, selectedPlayerLi
       </div>
       {filteredPlayer.length != 0 && (
         <div className="dataResult">
-          {filteredPlayer.slice(0, 10).map((value, key) => {
+          {filteredPlayer.slice(0, 20).map((value, key) => {
             return (
-              <div className="boxPlayer" onClick={() => {setSelectedPlayer(value); setfilteredPlayer([]); setplayerEntered(""); }}>
+              <div key={key} className="boxPlayer" onClick={() => {setSelectedPlayer(value); setfilteredPlayer([]); setplayerEntered(""); }}>
                 <p>{value.name}</p>
               </div>
             );

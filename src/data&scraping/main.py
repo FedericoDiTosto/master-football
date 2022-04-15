@@ -41,8 +41,8 @@ def serieA():
                 player["pos"] = pos
                 players.append(player)           
             row_num = row_num + 1
-    with open("serieA.json", "w") as outfile:
-        json.dump(players, outfile)
+    with open("serieA.json", "w", encoding="utf-8") as outfile:
+        json.dump(players, outfile, ensure_ascii=False)
 
 
 serieA()
