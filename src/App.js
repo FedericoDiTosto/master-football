@@ -12,6 +12,18 @@ function App() {
   const [win, setWin] = useState(false)
   var randomPlayer = playersSerieA[randomPlayerIndex];
 
+  function calcPlayerAge(birth){
+    if(birth != undefined){
+      let ageBirth = birth.split("/")
+      let day = ageBirth[0]
+      let month = ageBirth[1]
+      let year = ageBirth[2]
+      const ageBirthArr = [year,month,day+"T00:00:00"]
+      let ageDate = ageBirthArr.join("-")
+      return Math.floor((new Date() - new Date(ageDate).getTime()) / 3.15576e+10)
+    }
+  }
+
   return (
     <div className="App">
       <SearchBar players={playersSerieA} randomPlayer={randomPlayer} setSelectedPlayer={setSelectedPlayer} selectedPlayer={selectedPlayer}
@@ -21,13 +33,16 @@ function App() {
         <div key={key} className="answer-box">
           <div className={randomPlayer.team === item.team ? "answer-team-correct" : "answer-team"}>
             {item.team}
-            </div>
-            <div>
+          </div>
+          <div>
           <h5>{item.name}</h5>
           </div>
           <div style={randomPlayer.pos === item.pos ? {backgroundColor:"green"} : {backgroundColor:"none"}}>
             {item.pos}
-            </div>
+          </div>
+          <div style={randomPlayer.birth === item.birth ? {backgroundColor:"green"} : {backgroundColor:"none"}}>
+            {calcPlayerAge(item.birth)}
+          </div>
         </div>
       ))}
     </div>

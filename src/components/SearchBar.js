@@ -7,7 +7,6 @@ function SearchBar({players, setSelectedPlayer, selectedPlayer, selectedPlayerLi
 
   useEffect(() => {
     setSelectedPlayerList(currentArray => [...currentArray, selectedPlayer])
-    // action on update of movies
 }, [selectedPlayer]);
 
   const handleFilter = (event) => {
