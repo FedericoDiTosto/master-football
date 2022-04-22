@@ -54,6 +54,11 @@ body {
   background-color: var(--green);
 }
 
+.answer-team-correct img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
 .answer-pos {
   width: var(--answer-circle-size);
   height: var(--answer-circle-size);
@@ -79,7 +84,76 @@ body {
   background-color: var(--green);
 }
 
+.answer-nat {
+  width: var(--answer-circle-size);
+  height: var(--answer-circle-size);
+  border-radius: 50%;
+  font-size: 25px;
+  font-weight: 700;
+  background-color: none;
+  color: var(--white);
+  line-height: var(--answer-circle-size);
+  vertical-align: middle;
+}
+
+.answer-nat img {
+  width: 75%;
+  height: 50%;
+}
+
+.answer-num {
+  display: flex;
+  width: var(--answer-circle-size);
+  height: var(--answer-circle-size);
+  border-radius: 50%;
+  color: var(--black);
+  vertical-align: middle;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.answer-num-correct {
+  display: flex;
+  width: var(--answer-circle-size);
+  height: var(--answer-circle-size);
+  border-radius: 50%;
+  color: var(--black);
+  background-color: var(--green);
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.tshirt-box {
+  width: 100%;
+  height: 100%;
+  background-size: var(--answer-circle-size);
+  font-size: 25px;
+  font-weight: 700;
+  line-height: var(--answer-circle-size);
+  vertical-align: middle;
+  background-image: url("/src/images/TShirt.svg");
+  background-repeat: no-repeat;
+}
+
+.answer-nat-correct {
+  width: var(--answer-circle-size);
+  height: var(--answer-circle-size);
+  border-radius: 50%;
+  color: var(--white);
+  line-height: var(--answer-circle-size);
+  vertical-align: middle;
+  background-color: var(--green);
+}
+
+.answer-nat-correct img {
+  width: 75%;
+  height: 50%;
+}
+
 .answer-age {
+  display: flex;
   width: var(--answer-circle-size);
   height: var(--answer-circle-size);
   border-radius: 50%;
@@ -89,10 +163,14 @@ body {
   line-height: var(--answer-circle-size);
   vertical-align: middle;
   background-size: var(--answer-circle-size);
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
 }
 
 
 .answer-age-correct {
+  display: flex;
   width: var(--answer-circle-size);
   height: var(--answer-circle-size);
   border-radius: 50%;
@@ -101,4 +179,5 @@ body {
   color: var(--white);
   line-height: var(--answer-circle-size);
   vertical-align: middle;
+  justify-content: space-between;
 }

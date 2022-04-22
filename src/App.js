@@ -3,8 +3,9 @@ import './App.css';
 import playersSerieA from './data&scraping/serieA.json'
 import SearchBar from './components/SearchBar';
 import { useState } from 'react';
-import More from "./images/more.png";
-import Less from "./images/less.png";
+import More from "./images/MoreIcon";
+import Less from "./images/LessIcon";
+import TShirt from "./images/TShirt.svg";
 
 function App() {
   const [randomPlayerIndex, setRandomPlayerIndex] = useState(Math.floor(Math.random() * playersSerieA.length))
@@ -13,14 +14,6 @@ function App() {
   const [win, setWin] = useState(false)
 
   var randomPlayer = playersSerieA[randomPlayerIndex];
-
-  const bkgLess = {
-    backgroundImage: `url(${More})`,
-  };
-
-  const bkgMore = {
-    backgroundImage: `url(${Less})`,
-  };
 
   return (
     <div className="App">
@@ -31,13 +24,23 @@ function App() {
           <p className='player-name'>{item.name}</p>
           <div key={key} className="answer-box">
             <div className={randomPlayer.team === item.team ? "answer-team-correct" : "answer-team"}>
-              <img src={item.teamLogo} ></img>
+              <img className="tshirt-icon" src={item.teamLogo} ></img>
+            </div>
+            <div className={randomPlayer.number === item.number ? "answer-num-correct" : "answer-num"}>
+                <div className='tshirt-box'>
+                {item.number}
+                </div>
+            </div>
+            <div className={randomPlayer.nationality === item.nationality ? "answer-nat-correct" : "answer-nat"}>
+            <img src={item.nationalityFlag}></img>
             </div>
             <div className={randomPlayer.position === item.position ? "answer-pos-correct" : "answer-pos"}>
               {item.position}
             </div>
-            <div className={randomPlayer.age === item.age ? "answer-age-correct" : "answer-age"} style={randomPlayer.age < item.age ? bkgLess : bkgMore}>
+            <div className={randomPlayer.age === item.age ? "answer-age-correct" : "answer-age"} >
+              {randomPlayer.age >> item.age ? <More /> : <Less />}
               {item.age}
+              {randomPlayer.age >> item.age ? <More /> : <Less />}
             </div>
           </div>
         </>
