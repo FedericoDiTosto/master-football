@@ -7,6 +7,7 @@ function SearchBar({players, setSelectedPlayer, selectedPlayer, selectedPlayerLi
 
   useEffect(() => {
     setSelectedPlayerList(currentArray => [...currentArray, selectedPlayer])
+    console.log(selectedPlayerList)
 }, [selectedPlayer]);
 
   const handleFilter = (event) => {
@@ -32,7 +33,7 @@ function SearchBar({players, setSelectedPlayer, selectedPlayer, selectedPlayerLi
           onChange={handleFilter}
         />
       </div>
-      {filteredPlayer.length != 0 && (
+      {filteredPlayer.length !== 0 && (
         <div className="dataResult">
           {filteredPlayer.slice(0, 20).map((value, key) => {
             return (
