@@ -10,6 +10,10 @@ body {
   pointer-events: none;
 }
 
+.players-choosen-container {
+  margin-bottom: 20px;
+}
+
 .player-name {
   color: var(--white);
   font-size: 25px;
@@ -30,7 +34,7 @@ body {
   border-radius: 25%;
   font-size: 25px;
   font-weight: 700;
-  background-color: var(--red);
+  background-color: var(--gray);
   color: var(--white);
   line-height: var(--answer-circle-size);
   vertical-align: middle;
@@ -73,7 +77,7 @@ body {
   border-radius: 25%;
   font-size: 25px;
   font-weight: 700;
-  background-color: var(--red);
+  background-color: var(--gray);
   color: var(--white);
   line-height: var(--answer-circle-size);
   vertical-align: middle;
@@ -97,7 +101,7 @@ body {
   border-radius: 25%;
   font-size: 25px;
   font-weight: 700;
-  background-color: var(--red);
+  background-color: var(--gray);
   color: var(--white);
   line-height: var(--answer-circle-size);
   vertical-align: middle;
@@ -131,12 +135,69 @@ body {
   height: 50%;
 }
 
+.answer-foot {
+  display: flex;
+  width: var(--answer-circle-size);
+  height: var(--answer-circle-size);
+  border-radius: 25%;
+  font-size: 25px;
+  font-weight: 700;
+  background-color: var(--gray);
+  color: var(--white);
+  line-height: var(--answer-circle-size);
+  vertical-align: middle;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.leftfoot {
+  width: 70%;
+  height: 70%;
+  transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  -moz-transform: scaleX(-1);
+  -ms-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+}
+
+.rightfoot {
+  width: 70%;
+  height: 70%;
+}
+
+.answer-foot-correct {
+  display: flex;
+  width: var(--answer-circle-size);
+  height: var(--answer-circle-size);
+  border-radius: 25%;
+  font-size: 25px;
+  font-weight: 700;
+  background-color: var(--green);
+  fill: var(--red);
+  line-height: var(--answer-circle-size);
+  vertical-align: middle;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.answer-foot img {
+  width: 60%;
+  height: 60%;
+}
+
+.answer-foot-correct img {
+  width: 60%;
+  height: 60%;
+}
+
 .answer-num {
   display: flex;
   width: var(--answer-circle-size);
   height: var(--answer-circle-size);
   border-radius: 25%;
-  background-color: var(--red);
+  background-color: var(--gray);
   color: var(--black);
   vertical-align: middle;
   align-items: center;
@@ -184,7 +245,7 @@ body {
   color: var(--white);
   line-height: var(--answer-circle-size);
   vertical-align: middle;
-  background-color: var(--red);
+  background-color: var(--blue);
   background-size: var(--answer-circle-size);
   justify-content: center;
   align-items: center;
