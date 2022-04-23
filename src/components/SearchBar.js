@@ -4,10 +4,14 @@ import "../styles/SearchBar.css"
 function SearchBar({players, setSelectedPlayer, selectedPlayer, selectedPlayerList, setSelectedPlayerList, win, setWin}) {
   const [filteredPlayer, setfilteredPlayer] = useState([]);
   const [playerEntered, setplayerEntered] = useState("");
+  const [addedPlayer, setAddedPlayer] = useState(false)
 
   useEffect(() => {
-    if(selectedPlayerList.length >= 0){
-    setSelectedPlayerList(currentArray => [...currentArray, selectedPlayer])}
+    if(addedPlayer){
+      setSelectedPlayerList(currentArray => [...currentArray, selectedPlayer])
+      console.log(selectedPlayerList)
+      setAddedPlayer(false)
+    }
 }, [selectedPlayer]);
 
   const handleFilter = (event) => {
@@ -37,7 +41,7 @@ function SearchBar({players, setSelectedPlayer, selectedPlayer, selectedPlayerLi
         <div className="dataResult">
           {filteredPlayer.slice(0, 20).map((value, key) => {
             return (
-              <div key={key} className="boxPlayer" onClick={() => {setSelectedPlayer(value); setfilteredPlayer([]); setplayerEntered(""); }}>
+              <div key={key} className="boxPlayer" onClick={() => {setAddedPlayer(true); setSelectedPlayer(value); setfilteredPlayer([]); setplayerEntered(""); }}>
                 <p>{value.name}</p>
               </div>
             );
