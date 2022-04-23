@@ -6,8 +6,8 @@ function SearchBar({players, setSelectedPlayer, selectedPlayer, selectedPlayerLi
   const [playerEntered, setplayerEntered] = useState("");
 
   useEffect(() => {
-    setSelectedPlayerList(currentArray => [...currentArray, selectedPlayer])
-    console.log(selectedPlayerList)
+    if(selectedPlayerList.length >= 0){
+    setSelectedPlayerList(currentArray => [...currentArray, selectedPlayer])}
 }, [selectedPlayer]);
 
   const handleFilter = (event) => {

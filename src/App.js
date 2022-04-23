@@ -38,9 +38,9 @@ function App() {
               {item.position}
             </div>
             <div className={randomPlayer.age === item.age ? "answer-age-correct" : "answer-age"} >
-              {randomPlayer.age >> item.age ? <More /> : <Less />}
+              {randomPlayer.age > item.age ? <More /> : randomPlayer.age < item.age ? <Less /> : ""}
               {item.age}
-              {randomPlayer.age >> item.age ? <More /> : <Less />}
+              {randomPlayer.age > item.age ? <More /> : randomPlayer.age < item.age ? <Less /> : ""}
             </div>
           </div>
         </>

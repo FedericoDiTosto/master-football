@@ -17,7 +17,7 @@ body {
 }
 
 .answer-box {
-  width: 50%;
+  width: 35%;
   display: flex;
   margin: auto;
   align-items: center;
@@ -27,31 +27,39 @@ body {
 .answer-team {
   width: var(--answer-circle-size);
   height: var(--answer-circle-size);
-  border-radius: 50%;
+  border-radius: 25%;
   font-size: 25px;
   font-weight: 700;
-  background-color: none;
+  background-color: var(--red);
   color: var(--white);
   line-height: var(--answer-circle-size);
   vertical-align: middle;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  text-align: center;
+
 }
 
 .answer-team img {
-  max-width: 100%;
-  max-height: 100%;
+  max-width: 90%;
+  max-height: 90%;
 }
 
 .answer-team-correct {
   width: var(--answer-circle-size);
   height: var(--answer-circle-size);
-  border-radius: 50%;
+  border-radius: 25%;
   font-size: 25px;
   font-weight: 700;
   background-color: var(--green);
   color: var(--white);
   line-height: var(--answer-circle-size);
   vertical-align: middle;
-  background-color: var(--green);
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  text-align: center;
 }
 
 .answer-team-correct img {
@@ -62,10 +70,10 @@ body {
 .answer-pos {
   width: var(--answer-circle-size);
   height: var(--answer-circle-size);
-  border-radius: 50%;
+  border-radius: 25%;
   font-size: 25px;
   font-weight: 700;
-  background-color: none;
+  background-color: var(--red);
   color: var(--white);
   line-height: var(--answer-circle-size);
   vertical-align: middle;
@@ -74,30 +82,52 @@ body {
 .answer-pos-correct {
   width: var(--answer-circle-size);
   height: var(--answer-circle-size);
-  border-radius: 50%;
+  border-radius: 25%;
   font-size: 25px;
   font-weight: 700;
-  background-color: none;
+  background-color: var(--green);
   color: var(--white);
   line-height: var(--answer-circle-size);
   vertical-align: middle;
-  background-color: var(--green);
 }
 
 .answer-nat {
   width: var(--answer-circle-size);
   height: var(--answer-circle-size);
-  border-radius: 50%;
+  border-radius: 25%;
   font-size: 25px;
   font-weight: 700;
-  background-color: none;
+  background-color: var(--red);
   color: var(--white);
   line-height: var(--answer-circle-size);
   vertical-align: middle;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: flex;
 }
 
 .answer-nat img {
-  width: 75%;
+  width: 65%;
+  height: 50%;
+}
+
+.answer-nat-correct {
+  width: var(--answer-circle-size);
+  height: var(--answer-circle-size);
+  border-radius: 25%;
+  color: var(--white);
+  line-height: var(--answer-circle-size);
+  vertical-align: middle;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: var(--green);
+  display: flex;
+}
+
+.answer-nat-correct img {
+  width: 65%;
   height: 50%;
 }
 
@@ -105,7 +135,8 @@ body {
   display: flex;
   width: var(--answer-circle-size);
   height: var(--answer-circle-size);
-  border-radius: 50%;
+  border-radius: 25%;
+  background-color: var(--red);
   color: var(--black);
   vertical-align: middle;
   align-items: center;
@@ -117,9 +148,10 @@ body {
   display: flex;
   width: var(--answer-circle-size);
   height: var(--answer-circle-size);
-  border-radius: 50%;
+  border-radius: 25%;
   color: var(--black);
   background-color: var(--green);
+  line-height: var(--answer-circle-size);
   align-items: center;
   justify-content: center;
   text-align: center;
@@ -133,37 +165,28 @@ body {
   font-weight: 700;
   line-height: var(--answer-circle-size);
   vertical-align: middle;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
   background-image: url("/src/images/TShirt.svg");
   background-repeat: no-repeat;
+  background-position: center;
 }
 
-.answer-nat-correct {
-  width: var(--answer-circle-size);
-  height: var(--answer-circle-size);
-  border-radius: 50%;
-  color: var(--white);
-  line-height: var(--answer-circle-size);
-  vertical-align: middle;
-  background-color: var(--green);
-}
-
-.answer-nat-correct img {
-  width: 75%;
-  height: 50%;
-}
 
 .answer-age {
   display: flex;
   width: var(--answer-circle-size);
   height: var(--answer-circle-size);
-  border-radius: 50%;
+  border-radius: 25%;
   font-size: 25px;
   font-weight: 700;
   color: var(--white);
   line-height: var(--answer-circle-size);
   vertical-align: middle;
+  background-color: var(--red);
   background-size: var(--answer-circle-size);
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   text-align: center;
 }
@@ -173,11 +196,14 @@ body {
   display: flex;
   width: var(--answer-circle-size);
   height: var(--answer-circle-size);
-  border-radius: 50%;
+  border-radius: 25%;
   font-size: 25px;
   font-weight: 700;
   color: var(--white);
+  background-color: var(--green);
   line-height: var(--answer-circle-size);
   vertical-align: middle;
-  justify-content: space-between;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
