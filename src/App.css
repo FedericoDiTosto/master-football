@@ -16,8 +16,32 @@ body {
 
 .player-name {
   color: var(--white);
-  font-size: 25px;
-  font-weight: 800;
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.info-box {
+  width: 35%;
+  display: flex;
+  margin: auto;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+  color: var(--white);
+}
+
+.info-sub-name-box {
+  width: 200px;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.info-sub-box {
+  width: var(--answer-circle-size);
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
 }
 
 .answer-box {
@@ -26,6 +50,21 @@ body {
   margin: auto;
   align-items: center;
   justify-content: space-between;
+  padding: 10px;
+}
+
+.answer-name {
+  width: 200px;
+  min-width: fit-content;
+  height: var(--answer-circle-size);
+  color: var(--white);
+  line-height: 150px;
+  vertical-align: middle;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  text-align: center;
+
 }
 
 .answer-team {

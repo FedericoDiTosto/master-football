@@ -21,11 +21,36 @@ function App() {
     <div className="App">
       <SearchBar players={playersSerieA} randomPlayer={randomPlayer} setSelectedPlayer={setSelectedPlayer} selectedPlayer={selectedPlayer}
         selectedPlayerList={selectedPlayerList} setSelectedPlayerList={setSelectedPlayerList} win={win} setWin={setWin} />
-        <div className='players-choosen-container'>
+          <div className='info-box'>
+            <div className='info-sub-name-box'> 
+            <h3>nome</h3>
+            </div>
+            <div className='info-sub-box'> 
+            <h3>squadra</h3>
+            </div>
+            <div className='info-sub-box'> 
+            <h3>numero</h3>
+            </div>
+            <div className='info-sub-box'> 
+            <h3>naz</h3>
+            </div>
+            <div className='info-sub-box'> 
+            <h3>piede</h3>
+            </div>
+            <div className='info-sub-box'> 
+            <h3>pos</h3>
+            </div>
+            <div className='info-sub-box'> 
+            <h3>età</h3>
+            </div>
+          </div>
+          <div className='players-choosen-container'>
       {selectedPlayerList.map((item, key) => (
         <>
-          <p className='player-name'>{item.name}</p>
           <div key={key} className="answer-box">
+            <div className='answer-name'>
+            <p className='player-name'>{item.name}</p>
+            </div>
             <div className={randomPlayer.team === item.team ? "answer-team-correct" : "answer-team"}>
               <img className="tshirt-icon" src={item.teamLogo} ></img>
             </div>
