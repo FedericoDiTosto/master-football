@@ -9,21 +9,29 @@ import TShirt from "./images/TShirt.svg";
 import Shoe from "./images/Shoe"
 import ShoeCorrect from './images/ShoeCorrect';
 import WinPopUp from './components/WinPopUp';
+import LosePopUp from './components/LosePopUp';
 
 function App() {
   const [randomPlayerIndex, setRandomPlayerIndex] = useState(Math.floor(Math.random() * playersSerieA.length))
   const [selectedPlayer, setSelectedPlayer] = useState({})
   const [selectedPlayerList, setSelectedPlayerList] = useState([])
-  const [guessed, setGussed] = useState(0)
+  const [guessed, setGuessed] = useState(0)
   const [win, setWin] = useState(false)
 
   var randomPlayer = playersSerieA[randomPlayerIndex];
 
+  function generateRandomPlayer(){
+      setRandomPlayerIndex(Math.floor(Math.random() * playersSerieA.length))
+      randomPlayer = playersSerieA[randomPlayerIndex]
+  }
   return (
     <div className="App">
       <SearchBar players={playersSerieA} randomPlayer={randomPlayer} setSelectedPlayer={setSelectedPlayer} selectedPlayer={selectedPlayer}
-        selectedPlayerList={selectedPlayerList} setSelectedPlayerList={setSelectedPlayerList} guessed={guessed} setGussed={setGussed} win={win} setWin={setWin} />
-        {!win && guessed >= 8 ? "hai perso, il giocatore era " +randomPlayer.name : win ? <WinPopUp /> : ""}
+        selectedPlayerList={selectedPlayerList} setSelectedPlayerList={setSelectedPlayerList} guessed={guessed} setGuessed={setGuessed} win={win} setWin={setWin} />
+        <h4 style={{color: "white"}}>Tentativo {guessed} di 8</h4>
+        {randomPlayer.name}
+        {!win && guessed >= 8 ? <LosePopUp setWin={setWin} win={win} setGuessed={setGuessed} setSelectedPlayerList={setSelectedPlayerList} generateRandomPlayer={generateRandomPlayer} RandomPlayerName={randomPlayer.name }/>
+                  : win ? <WinPopUp setWin={setWin} win={win} setGuessed={setGuessed} setSelectedPlayerList={setSelectedPlayerList} generateRandomPlayer={generateRandomPlayer}/> : ""}
           <div className='info-box'>
             <div className='info-sub-name-box'> 
             <h3>nome</h3>
@@ -74,7 +82,7 @@ function App() {
             </div>
             <div className={randomPlayer.age === item.age ? "answer-age-correct" : "answer-age"} >
               <div style={{position: 'relative'}}>
-              {randomPlayer.age > item.age ? <More style={{display: 'block'}}/> : randomPlayer.age < item.age ? <Less style={{display: 'block'}}/> : ""}
+              {randomPlayer.age > item.age ? <More style={{display: 'block', }}/> : randomPlayer.age < item.age ? <Less style={{display: 'block'}}/> : ""}
               {randomPlayer.age > item.age ? <More style={{position: 'absolute',top:7, bottom:0, left:0,}}/> : randomPlayer.age < item.age ? <Less style={{position: 'absolute',top:7, bottom:0, left:0,}}/> : ""}
               </div>
               {item.age}

@@ -221,16 +221,6 @@ body {
   text-align: center;
 }
 
-.answer-foot img {
-  width: 60%;
-  height: 60%;
-}
-
-.answer-foot-correct img {
-  width: 60%;
-  height: 60%;
-}
-
 .answer-num {
   display: flex;
   width: var(--answer-circle-size);

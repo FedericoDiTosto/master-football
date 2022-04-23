@@ -1,4 +1,4 @@
-.winpopup-box {
+.losepopup-box {
     background-color: rgba(0, 0, 0,
             0.3);
     display: flex;
@@ -12,7 +12,7 @@
     z-index: 100;
 }
 
-.winpopup {
+.losepopup {
     display: flex;
     background-color: #fff;
     width: 600px;
@@ -39,5 +39,5 @@
     line-height: 75px;
     vertical-align: middle;
     bottom: 0;
-    z-index: 100;
+    z-index: 300;
 }

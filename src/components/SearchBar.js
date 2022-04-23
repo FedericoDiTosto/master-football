@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "../styles/SearchBar.css"
 
-function SearchBar({players, randomPlayer, setSelectedPlayer, selectedPlayer, selectedPlayerList, setSelectedPlayerList, win, setWin,guessed, setGussed}) {
+function SearchBar({players, randomPlayer, setSelectedPlayer, selectedPlayer, selectedPlayerList, setSelectedPlayerList, win, setWin,guessed, setGuessed}) {
   const [filteredPlayer, setfilteredPlayer] = useState([]);
   const [playerEntered, setplayerEntered] = useState("");
   const [addedPlayer, setAddedPlayer] = useState(false)
@@ -11,7 +11,7 @@ function SearchBar({players, randomPlayer, setSelectedPlayer, selectedPlayer, se
       setSelectedPlayerList(currentArray => [...currentArray, selectedPlayer])
       console.log(selectedPlayerList)
       setAddedPlayer(false)
-      setGussed(guessed + 1)
+      setGuessed(guessed + 1)
       if(randomPlayer.name === selectedPlayer.name){
         setWin(true)
       }
