@@ -8,11 +8,13 @@ import Less from "./images/LessIcon";
 import TShirt from "./images/TShirt.svg";
 import Shoe from "./images/Shoe"
 import ShoeCorrect from './images/ShoeCorrect';
+import WinPopUp from './components/WinPopUp';
 
 function App() {
   const [randomPlayerIndex, setRandomPlayerIndex] = useState(Math.floor(Math.random() * playersSerieA.length))
   const [selectedPlayer, setSelectedPlayer] = useState({})
   const [selectedPlayerList, setSelectedPlayerList] = useState([])
+  const [guessed, setGussed] = useState(0)
   const [win, setWin] = useState(false)
 
   var randomPlayer = playersSerieA[randomPlayerIndex];
@@ -20,7 +22,8 @@ function App() {
   return (
     <div className="App">
       <SearchBar players={playersSerieA} randomPlayer={randomPlayer} setSelectedPlayer={setSelectedPlayer} selectedPlayer={selectedPlayer}
-        selectedPlayerList={selectedPlayerList} setSelectedPlayerList={setSelectedPlayerList} win={win} setWin={setWin} />
+        selectedPlayerList={selectedPlayerList} setSelectedPlayerList={setSelectedPlayerList} guessed={guessed} setGussed={setGussed} win={win} setWin={setWin} />
+        {!win && guessed >= 8 ? "hai perso, il giocatore era " +randomPlayer.name : win ? <WinPopUp /> : ""}
           <div className='info-box'>
             <div className='info-sub-name-box'> 
             <h3>nome</h3>
