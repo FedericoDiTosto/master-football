@@ -24,7 +24,7 @@ positions_dict = {"Portiere" : "POR",
                 "Punta centrale" : "ATT",
                 }
         
-def serieATransfermakt():
+def serieAPlayers():
     headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) ApplewebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
     link = "https://www.transfermarkt.it/serie-a/startseite/wettbewerb/IT1"
     pageTree = requests.get(link, headers=headers)
@@ -62,4 +62,4 @@ def serieATransfermakt():
     with open("serieA.json", "w", encoding="utf-8") as outfile:
         json.dump(playerListSorted, outfile, ensure_ascii=False)
    
-serieATransfermakt()
+serieAPlayers()
