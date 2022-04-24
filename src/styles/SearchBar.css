@@ -20,7 +20,8 @@ input:focus {
 .dataResult {
     margin-top: 20px;
     width: 300px;
-    height: 350px;
+    height: fit-content;
+    max-height: 350px;
     background-color: white;
     overflow: hidden;
     overflow-y: auto;

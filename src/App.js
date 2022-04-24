@@ -26,6 +26,10 @@ function App() {
   }
   return (
     <div className="App">
+      <h1 style={{color: "white"}}>Master Football</h1>
+      <div className='options-menu'>
+        <div className='surrender-btn' onClick={() => {setWin(false);setGuessed(8);}}>Nuova Partita</div>
+      </div>
       <SearchBar players={playersSerieA} randomPlayer={randomPlayer} setSelectedPlayer={setSelectedPlayer} selectedPlayer={selectedPlayer}
         selectedPlayerList={selectedPlayerList} setSelectedPlayerList={setSelectedPlayerList} guessed={guessed} setGuessed={setGuessed} win={win} setWin={setWin} />
         <h4 style={{color: "white"}}>Tentativo {guessed} di 8</h4>

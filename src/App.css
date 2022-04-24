@@ -10,6 +10,33 @@ body {
   pointer-events: none;
 }
 
+.options-menu {
+  width: 200px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.surrender-btn {
+  height: 30px;
+  background-color: var(--blue);
+  color: var(--white);
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  vertical-align: middle;
+  font-weight: 600;
+  line-height: 30px;
+}
+
+.surrender-btn:hover {
+  background-color: var(--light-blue);
+  cursor: pointer;
+}
+
+
 .players-choosen-container {
   margin-bottom: 20px;
 }
