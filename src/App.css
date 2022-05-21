@@ -1,26 +1,29 @@
-body {
+.App {
   text-align: center;
   align-items: center;
   justify-content: center;
   background-color: #333;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.app-title{
+  color: white;
+  margin: 0 auto;
+  width: 100%;
 }
 
 .options-menu {
-  width: 200px;
-  position: absolute;
-  right: 0;
-  top: 0;
+  max-width: 200px;
   margin-top: 10px;
   margin-right: 10px;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
 }
 
 .surrender-btn {
-  height: 30px;
+  height: clamp(2em, 10vw, 3em);
+  width: fit-content;
+  margin: 0 auto;
   background-color: var(--blue);
   color: var(--white);
   align-items: center;
@@ -28,7 +31,7 @@ body {
   text-align: center;
   vertical-align: middle;
   font-weight: 600;
-  line-height: 30px;
+  line-height: clamp(2em, 10vw, 3em);
 }
 
 .surrender-btn:hover {
@@ -42,67 +45,43 @@ body {
 }
 
 .player-name {
+  height: .7em;
   color: var(--white);
-  font-size: 17px;
-  font-weight: 600;
+  font-size: clamp(.5em, 3vw, 1em);
+  font-weight: 500;
 }
 
 .info-box {
-  width: 35%;
+  width: 90%;
+  max-width: 60em;
   display: flex;
-  margin: auto;
+  margin: 0 auto;
   align-items: center;
   justify-content: space-between;
   text-align: center;
   color: var(--white);
-}
-
-.info-sub-name-box {
-  width: 200px;
-  align-items: center;
-  justify-content: space-between;
-  text-align: center;
-}
-
-.info-sub-box {
-  width: var(--answer-circle-size);
-  align-items: center;
-  justify-content: space-between;
-  text-align: center;
+  padding: 0 1rem;
 }
 
 .answer-box {
-  width: 35%;
+  width: 100%;
+  max-width: 60em;
   display: flex;
   margin: auto;
   align-items: center;
   justify-content: space-between;
-  padding: 10px;
-}
-
-.answer-name {
-  width: 200px;
-  min-width: fit-content;
-  height: var(--answer-circle-size);
-  color: var(--white);
-  line-height: 150px;
-  vertical-align: middle;
-  justify-content: center;
-  align-items: center;
-  display: flex;
-  text-align: center;
-
+  padding: 1em;
 }
 
 .answer-team {
-  width: var(--answer-circle-size);
-  height: var(--answer-circle-size);
+  width: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
+  height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   border-radius: 25%;
   font-size: 25px;
   font-weight: 700;
   background-color: var(--gray);
   color: var(--white);
-  line-height: var(--answer-circle-size);
+  line-height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   vertical-align: middle;
   justify-content: center;
   align-items: center;
@@ -117,14 +96,14 @@ body {
 }
 
 .answer-team-correct {
-  width: var(--answer-circle-size);
-  height: var(--answer-circle-size);
+  width: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
+  height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   border-radius: 25%;
   font-size: 25px;
   font-weight: 700;
   background-color: var(--green);
   color: var(--white);
-  line-height: var(--answer-circle-size);
+  line-height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   vertical-align: middle;
   justify-content: center;
   align-items: center;
@@ -138,38 +117,38 @@ body {
 }
 
 .answer-pos {
-  width: var(--answer-circle-size);
-  height: var(--answer-circle-size);
+  width: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
+  height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   border-radius: 25%;
   font-size: 25px;
   font-weight: 700;
   background-color: var(--gray);
   color: var(--white);
-  line-height: var(--answer-circle-size);
+  line-height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   vertical-align: middle;
 }
 
 .answer-pos-correct {
-  width: var(--answer-circle-size);
-  height: var(--answer-circle-size);
+  width: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
+  height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   border-radius: 25%;
   font-size: 25px;
   font-weight: 700;
   background-color: var(--green);
   color: var(--white);
-  line-height: var(--answer-circle-size);
+  line-height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   vertical-align: middle;
 }
 
 .answer-nat {
-  width: var(--answer-circle-size);
-  height: var(--answer-circle-size);
+  width: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
+  height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   border-radius: 25%;
   font-size: 25px;
   font-weight: 700;
   background-color: var(--gray);
   color: var(--white);
-  line-height: var(--answer-circle-size);
+  line-height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   vertical-align: middle;
   justify-content: center;
   align-items: center;
@@ -183,11 +162,11 @@ body {
 }
 
 .answer-nat-correct {
-  width: var(--answer-circle-size);
-  height: var(--answer-circle-size);
+  width: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
+  height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   border-radius: 25%;
   color: var(--white);
-  line-height: var(--answer-circle-size);
+  line-height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   vertical-align: middle;
   justify-content: center;
   align-items: center;
@@ -203,14 +182,14 @@ body {
 
 .answer-foot {
   display: flex;
-  width: var(--answer-circle-size);
-  height: var(--answer-circle-size);
+  width: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
+  height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   border-radius: 25%;
   font-size: 25px;
   font-weight: 700;
   background-color: var(--gray);
   color: var(--white);
-  line-height: var(--answer-circle-size);
+  line-height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   vertical-align: middle;
   justify-content: center;
   align-items: center;
@@ -234,14 +213,14 @@ body {
 
 .answer-foot-correct {
   display: flex;
-  width: var(--answer-circle-size);
-  height: var(--answer-circle-size);
+  width: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
+  height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   border-radius: 25%;
   font-size: 25px;
   font-weight: 700;
   background-color: var(--green);
   fill: var(--red);
-  line-height: var(--answer-circle-size);
+  line-height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   vertical-align: middle;
   justify-content: center;
   align-items: center;
@@ -249,12 +228,12 @@ body {
 }
 
 .answer-num {
-  display: flex;
-  width: var(--answer-circle-size);
-  height: var(--answer-circle-size);
+  width: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
+  height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   border-radius: 25%;
   background-color: var(--gray);
   color: var(--black);
+  line-height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   vertical-align: middle;
   align-items: center;
   justify-content: center;
@@ -262,13 +241,12 @@ body {
 }
 
 .answer-num-correct {
-  display: flex;
-  width: var(--answer-circle-size);
-  height: var(--answer-circle-size);
+  width: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
+  height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   border-radius: 25%;
   color: var(--black);
   background-color: var(--green);
-  line-height: var(--answer-circle-size);
+  vertical-align: middle;
   align-items: center;
   justify-content: center;
   text-align: center;
@@ -277,10 +255,9 @@ body {
 .tshirt-box {
   width: 100%;
   height: 100%;
-  background-size: var(--answer-circle-size);
+  background-size: 100%;
   font-size: 25px;
   font-weight: 700;
-  line-height: var(--answer-circle-size);
   vertical-align: middle;
   justify-content: center;
   align-items: center;
@@ -288,18 +265,19 @@ body {
   background-image: url("/src/images/TShirt.svg");
   background-repeat: no-repeat;
   background-position: center;
+  margin: 0 auto;
 }
 
 
 .answer-age {
   display: flex;
-  width: var(--answer-circle-size);
-  height: var(--answer-circle-size);
+  width: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
+  height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   border-radius: 25%;
   font-size: 25px;
   font-weight: 700;
   color: var(--white);
-  line-height: var(--answer-circle-size);
+  line-height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   vertical-align: middle;
   background-color: var(--blue);
   background-size: var(--answer-circle-size);
@@ -311,14 +289,14 @@ body {
 
 .answer-age-correct {
   display: flex;
-  width: var(--answer-circle-size);
-  height: var(--answer-circle-size);
+  width: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
+  height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   border-radius: 25%;
   font-size: 25px;
   font-weight: 700;
   color: var(--white);
   background-color: var(--green);
-  line-height: var(--answer-circle-size);
+  line-height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   vertical-align: middle;
   justify-content: center;
   align-items: center;

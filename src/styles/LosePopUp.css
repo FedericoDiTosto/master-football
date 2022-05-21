@@ -14,10 +14,11 @@
 
 .losepopup {
     display: flex;
+    flex-direction: column;
     background-color: #fff;
-    width: 600px;
-    height: 300px;
-    max-width: 100%;
+    width: 90%;
+    max-width: 35em;
+    height:clamp(10em, 50vw, 17em);
     top: 0;
     position: absolute;
     align-items: center;
@@ -28,18 +29,28 @@
     z-index: 100;
 }
 
+.losepopup-title{
+    font-size: clamp(.75em, 7vw, 2.5em);
+}
+
+.losepopup-subtitle{
+    font-size: clamp(.5em, 4vw, 1.25em);
+}
+
 .restart {
-    width: 200px;
-    height: 75px;
+    width: 50%;
+    height:clamp(2em, 50vw, 3em);
     background-color: var(--blue);
     color: var(--white);
     font-weight: 600;
     font-size: 20px;
     text-align: center;
-    line-height: 75px;
+    line-height: clamp(2em, 50vw, 3em);
     vertical-align: middle;
     bottom: 0;
     z-index: 300;
+    font-size: clamp(.5em, 4vw, 1.25em);
+
 }
 
 .restart:hover {
