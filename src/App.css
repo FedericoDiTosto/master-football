@@ -22,7 +22,7 @@
 
 .surrender-btn {
   height: clamp(2em, 10vw, 3em);
-  width: fit-content;
+  width: clamp(7em, 15vw, 12.5em);
   margin: 0 auto;
   background-color: var(--blue);
   color: var(--white);
@@ -120,7 +120,7 @@
   width: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   border-radius: 25%;
-  font-size: 25px;
+  font-size: clamp(.25em, 25vw, 1.5em);
   font-weight: 700;
   background-color: var(--gray);
   color: var(--white);
@@ -132,7 +132,7 @@
   width: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   border-radius: 25%;
-  font-size: 25px;
+  font-size: clamp(.25em, 25vw, 1.5em);
   font-weight: 700;
   background-color: var(--green);
   color: var(--white);
@@ -144,7 +144,7 @@
   width: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   border-radius: 25%;
-  font-size: 25px;
+  font-size: clamp(.25em, 25vw, 1.5em);
   font-weight: 700;
   background-color: var(--gray);
   color: var(--white);
@@ -166,6 +166,8 @@
   height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   border-radius: 25%;
   color: var(--white);
+  font-size: clamp(.25em, 25vw, 1.5em);
+  font-weight: 700;
   line-height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   vertical-align: middle;
   justify-content: center;
@@ -185,7 +187,7 @@
   width: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   border-radius: 25%;
-  font-size: 25px;
+  font-size: clamp(.25em, 25vw, 1.5em);
   font-weight: 700;
   background-color: var(--gray);
   color: var(--white);
@@ -216,7 +218,7 @@
   width: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   border-radius: 25%;
-  font-size: 25px;
+  font-size: clamp(.25em, 25vw, 1.5em);
   font-weight: 700;
   background-color: var(--green);
   fill: var(--red);
@@ -231,6 +233,8 @@
   width: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   border-radius: 25%;
+  font-size: clamp(.25em, 25vw, 1.5em);
+  font-weight: 700;
   background-color: var(--gray);
   color: var(--black);
   line-height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
@@ -238,25 +242,28 @@
   align-items: center;
   justify-content: center;
   text-align: center;
+  display: flex;
 }
 
 .answer-num-correct {
   width: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   border-radius: 25%;
+  font-size: clamp(.25em, 25vw, 1.5em);
+  line-height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   color: var(--black);
   background-color: var(--green);
   vertical-align: middle;
   align-items: center;
   justify-content: center;
   text-align: center;
+  display: flex;
 }
 
 .tshirt-box {
   width: 100%;
   height: 100%;
   background-size: 100%;
-  font-size: 25px;
   font-weight: 700;
   vertical-align: middle;
   justify-content: center;
@@ -274,7 +281,7 @@
   width: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   border-radius: 25%;
-  font-size: 25px;
+  font-size: clamp(.25em, 25vw, 1.5em);
   font-weight: 700;
   color: var(--white);
   line-height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
@@ -292,7 +299,7 @@
   width: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   height: clamp(var(--answer-size-small), var(--answer-size-vw), var(--answer-size-big));
   border-radius: 25%;
-  font-size: 25px;
+  font-size: clamp(.25em, 25vw, 1.5em);
   font-weight: 700;
   color: var(--white);
   background-color: var(--green);

@@ -7,9 +7,9 @@
   --light-gray: #686868;
   --blue: #006bba;
   --light-blue: #008bee;
-  --answer-size-small: 1em;
-  --answer-size-vw: 15vw;
-  --answer-size-big: 3.5em;
+  --answer-size-small: .75em;
+  --answer-size-vw: 12.5vw;
+  --answer-size-big: 3em;
 }
 
 *{

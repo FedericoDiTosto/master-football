@@ -97,7 +97,7 @@ function App() {
                       : "answer-team"
                   }
                 >
-                  <img className="tshirt-icon" src={item.teamLogo}></img>
+                  <img src={item.teamLogo}></img>
                 </div>
                 <div
                   className={
